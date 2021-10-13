@@ -1,0 +1,2518 @@
+{
+    "results": {
+        "playlists": {
+            "href": "/v1/catalog/us/search?limit=8&term=beattles&types=playlists",
+            "next": "/v1/catalog/us/search?offset=8&term=beattles&types=playlists",
+            "data": [
+                {
+                    "id": "pl.59619449a71f44dc99c4dabd6c442d41",
+                    "type": "playlists",
+                    "href": "/v1/catalog/us/playlists/pl.59619449a71f44dc99c4dabd6c442d41",
+                    "attributes": {
+                        "artwork": {
+                            "width": 2400,
+                            "height": 2400,
+                            "url": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/02/1f/ea/021fea7b-9acd-3dd9-c833-68781a5c764a/mza_12805048796106822393.png/{w}x{h}SC.FPESS02.jpg?l=en-US",
+                            "bgColor": "fffdff",
+                            "textColor1": "0c0507",
+                            "textColor2": "131614",
+                            "textColor3": "3c3739",
+                            "textColor4": "424443"
+                        },
+                        "isChart": false,
+                        "url": "https://music.apple.com/us/playlist/the-beatles-essentials/pl.59619449a71f44dc99c4dabd6c442d41",
+                        "lastModifiedDate": "2021-08-26T18:22:50Z",
+                        "name": "The Beatles Essentials",
+                        "playlistType": "editorial",
+                        "curatorName": "Apple Music Rock",
+                        "playParams": {
+                            "id": "pl.59619449a71f44dc99c4dabd6c442d41",
+                            "kind": "playlist"
+                        },
+                        "description": {
+                            "standard": "As The Beatles, the quartet of John Lennon, Paul McCartney, George Harrison, and Ringo Starr forever changed the face of pop music. Shortly after the group's lineup solidified in 1961, a series of wildly successful singles made them superstars, and in the mid-'60s Beatlemania swept the globe. The rest of the decade was defined by fearless experimentation, musical reinvention, and visionary recordings. Years after their 1970 breakup, The Beatles continue to be a keystone influence on countless artists. This selection of unforgettable songs—now highlighting some of the most revelatory tracks from the new super deluxe White Album collection—offers an introduction to the band's towering legacy for new listeners, and an opportunity for longtime fans to fall in love with them all over again.",
+                            "short": "John. Paul. George. Ringo. Get acquainted with the world's most influential band."
+                        }
+                    }
+                },
+                {
+                    "id": "pl.8dbe3c5585fc442b83f52d205a1ca18a",
+                    "type": "playlists",
+                    "href": "/v1/catalog/us/playlists/pl.8dbe3c5585fc442b83f52d205a1ca18a",
+                    "attributes": {
+                        "artwork": {
+                            "width": 2400,
+                            "height": 2400,
+                            "url": "https://is4-ssl.mzstatic.com/image/thumb/Features125/v4/02/1f/ea/021fea7b-9acd-3dd9-c833-68781a5c764a/mza_12805048796106822393.png/{w}x{h}SC.FPLS01.jpg?l=en-US",
+                            "bgColor": "fffdff",
+                            "textColor1": "0c0507",
+                            "textColor2": "131614",
+                            "textColor3": "3c3739",
+                            "textColor4": "424443"
+                        },
+                        "isChart": false,
+                        "url": "https://music.apple.com/us/playlist/the-beatles-love-songs/pl.8dbe3c5585fc442b83f52d205a1ca18a",
+                        "lastModifiedDate": "2021-08-16T18:43:29Z",
+                        "name": "The Beatles: Love Songs",
+                        "playlistType": "editorial",
+                        "curatorName": "Apple Music Rock",
+                        "playParams": {
+                            "id": "pl.8dbe3c5585fc442b83f52d205a1ca18a",
+                            "kind": "playlist"
+                        },
+                        "description": {
+                            "standard": "In the beginning, The Beatles became superstars on the strength of world-conquering singles like “Love Me Do” and “Please Please Me\"—songs that captured the wide-eyed innocence of young love. But as their career progressed, they evolved into master craftsmen capable of re-articulating matters of the heart in all their crushing nuance and complexity. This playlist is a collection of their best. ",
+                            "short": "Fall head over heels with the lads from Liverpool."
+                        }
+                    }
+                },
+                {
+                    "id": "pl.0324f931cf5c481b95110704a11887a0",
+                    "type": "playlists",
+                    "href": "/v1/catalog/us/playlists/pl.0324f931cf5c481b95110704a11887a0",
+                    "attributes": {
+                        "artwork": {
+                            "width": 2400,
+                            "height": 2400,
+                            "url": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/02/1f/ea/021fea7b-9acd-3dd9-c833-68781a5c764a/mza_12805048796106822393.png/{w}x{h}SC.FPNS01.jpg?l=en-US",
+                            "bgColor": "fffdff",
+                            "textColor1": "0c0507",
+                            "textColor2": "131614",
+                            "textColor3": "3c3739",
+                            "textColor4": "424443"
+                        },
+                        "isChart": false,
+                        "url": "https://music.apple.com/us/playlist/the-beatles-next-steps/pl.0324f931cf5c481b95110704a11887a0",
+                        "lastModifiedDate": "2021-08-26T18:26:19Z",
+                        "name": "The Beatles: Next Steps",
+                        "playlistType": "editorial",
+                        "curatorName": "Apple Music Rock",
+                        "playParams": {
+                            "id": "pl.0324f931cf5c481b95110704a11887a0",
+                            "kind": "playlist"
+                        },
+                        "description": {
+                            "standard": "The Beatles were such pop perfectionists that nearly everything they touched turned to gold; even the lesser-known gems of their catalog bested many bands' biggest songs. Dive in and check out some selections from the new super deluxe White Album with this playlist.",
+                            "short": "Nearly everything they touched turned to gold."
+                        }
+                    }
+                },
+                {
+                    "id": "pl.04be058b19f94c8981f32616cb2a146b",
+                    "type": "playlists",
+                    "href": "/v1/catalog/us/playlists/pl.04be058b19f94c8981f32616cb2a146b",
+                    "attributes": {
+                        "artwork": {
+                            "width": 2400,
+                            "height": 2400,
+                            "url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/02/1f/ea/021fea7b-9acd-3dd9-c833-68781a5c764a/mza_12805048796106822393.png/{w}x{h}SC.FPDC01.jpg?l=en-US",
+                            "bgColor": "fffdff",
+                            "textColor1": "0c0507",
+                            "textColor2": "131614",
+                            "textColor3": "3c3739",
+                            "textColor4": "424443"
+                        },
+                        "isChart": false,
+                        "url": "https://music.apple.com/us/playlist/the-beatles-deep-cuts/pl.04be058b19f94c8981f32616cb2a146b",
+                        "lastModifiedDate": "2021-08-26T18:27:02Z",
+                        "name": "The Beatles: Deep Cuts",
+                        "playlistType": "editorial",
+                        "curatorName": "Apple Music Rock",
+                        "playParams": {
+                            "id": "pl.04be058b19f94c8981f32616cb2a146b",
+                            "kind": "playlist"
+                        },
+                        "description": {
+                            "standard": "Underneath all that pop perfection, The Beatles boast an emotional range that is nothing short of sweeping. They could be blissful, dour, even downright ferocious. The clanging “You Can't Do That” boasts one of John Lennon's angriest vocals, while on the flipside, George Harrison's acoustic demo of “While My Guitar Gently Weeps” proves more delicate than its electric counterpart.",
+                            "short": "From the edges of their emotional and musical range."
+                        }
+                    }
+                },
+                {
+                    "id": "pl.7e2c93b42049405983027a7eb645cdc5",
+                    "type": "playlists",
+                    "href": "/v1/catalog/us/playlists/pl.7e2c93b42049405983027a7eb645cdc5",
+                    "attributes": {
+                        "artwork": {
+                            "width": 2400,
+                            "height": 2400,
+                            "url": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/02/1f/ea/021fea7b-9acd-3dd9-c833-68781a5c764a/mza_12805048796106822393.png/{w}x{h}SC.MVESS01.jpg?l=en-US",
+                            "bgColor": "fffdff",
+                            "textColor1": "0c0507",
+                            "textColor2": "131614",
+                            "textColor3": "3c3739",
+                            "textColor4": "424443"
+                        },
+                        "isChart": false,
+                        "url": "https://music.apple.com/us/playlist/the-beatles-video-essentials/pl.7e2c93b42049405983027a7eb645cdc5",
+                        "lastModifiedDate": "2019-09-23T21:14:39Z",
+                        "name": "The Beatles Video Essentials",
+                        "playlistType": "editorial",
+                        "curatorName": "Apple Music Pop",
+                        "playParams": {
+                            "id": "pl.7e2c93b42049405983027a7eb645cdc5",
+                            "kind": "playlist"
+                        },
+                        "description": {
+                            "standard": "The Beatles weren't just pop's greatest group; they were also pioneers who experimented with novel ways to release and promote music. The film clips they released in the '60s are some of the earliest examples of pop music videos. Whether it's John mugging for the camera (“We Can Work It Out”), Paul giggling at the mic (“Lady Madonna”), or the whole group larking about with an exploded piano (“Strawberry Fields Forever”), watching the palpable chemistry between all four is an infectious joy.",
+                            "short": "Pop's greatest group share an infectious visual chemistry."
+                        }
+                    }
+                },
+                {
+                    "id": "pl.8227b56f329c4c69994c808beb14f411",
+                    "type": "playlists",
+                    "href": "/v1/catalog/us/playlists/pl.8227b56f329c4c69994c808beb14f411",
+                    "attributes": {
+                        "artwork": {
+                            "width": 2400,
+                            "height": 2400,
+                            "url": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/02/1f/ea/021fea7b-9acd-3dd9-c833-68781a5c764a/mza_12805048796106822393.png/{w}x{h}SC.FPINF01.jpg?l=en-US",
+                            "bgColor": "fffdff",
+                            "textColor1": "0c0507",
+                            "textColor2": "131614",
+                            "textColor3": "3c3739",
+                            "textColor4": "424443"
+                        },
+                        "isChart": false,
+                        "url": "https://music.apple.com/us/playlist/the-beatles-influences/pl.8227b56f329c4c69994c808beb14f411",
+                        "lastModifiedDate": "2016-08-23T18:03:20Z",
+                        "name": "The Beatles: Influences",
+                        "playlistType": "editorial",
+                        "curatorName": "Apple Music Classic Rock",
+                        "playParams": {
+                            "id": "pl.8227b56f329c4c69994c808beb14f411",
+                            "kind": "playlist"
+                        },
+                        "description": {
+                            "standard": "The Beatles may be the most influential band in history, but they were inspired by their favorite rockers, too. It's easy to hear The Everly Brothers in the band's spot-on harmonies, Little Richard in every howl, and even contemporaries like The Kinks in their melodies. But it was The Beatles who saw how to fuse all of this together, creating their own unforgettable songs.",
+                            "short": "With love from the band to you."
+                        }
+                    }
+                },
+                {
+                    "id": "pl.1f896a2309cb4781a66c419fbe34c0b5",
+                    "type": "playlists",
+                    "href": "/v1/catalog/us/playlists/pl.1f896a2309cb4781a66c419fbe34c0b5",
+                    "attributes": {
+                        "artwork": {
+                            "width": 4320,
+                            "height": 1080,
+                            "url": "https://is4-ssl.mzstatic.com/image/thumb/Features128/v4/98/d4/c4/98d4c41f-5a60-a773-fd46-2140d5df935b/source/{w}x{h}cc.jpg",
+                            "bgColor": "9d9d9d",
+                            "textColor1": "090909",
+                            "textColor2": "0b0b0b",
+                            "textColor3": "262626",
+                            "textColor4": "282828"
+                        },
+                        "isChart": false,
+                        "url": "https://music.apple.com/us/playlist/the-beatles-narrative-songs/pl.1f896a2309cb4781a66c419fbe34c0b5",
+                        "lastModifiedDate": "2016-08-17T22:16:12Z",
+                        "name": "The Beatles: Narrative Songs",
+                        "playlistType": "editorial",
+                        "curatorName": "Apple Music Rock",
+                        "playParams": {
+                            "id": "pl.1f896a2309cb4781a66c419fbe34c0b5",
+                            "kind": "playlist"
+                        },
+                        "description": {
+                            "standard": "Great songwriters and storytellers alike, The Beatles filled their catalog with unforgettable characters. Lose yourself in this set of musical short stories starring Molly Jones, Rocky Raccoon and many more.",
+                            "short": "A series of musical short stories starring Molly Jones, Rocky Raccoon, and many more."
+                        }
+                    }
+                },
+                {
+                    "id": "pl.26f03d4bee294627977da1cd2e93fb81",
+                    "type": "playlists",
+                    "href": "/v1/catalog/us/playlists/pl.26f03d4bee294627977da1cd2e93fb81",
+                    "attributes": {
+                        "artwork": {
+                            "width": 4320,
+                            "height": 1080,
+                            "url": "https://is4-ssl.mzstatic.com/image/thumb/Features122/v4/1d/55/bb/1d55bb2e-4d5b-07b9-70a6-36cc92beb33c/source/{w}x{h}cc.jpg",
+                            "bgColor": "ff9188",
+                            "textColor1": "050201",
+                            "textColor2": "0b0806",
+                            "textColor3": "371f1c",
+                            "textColor4": "3c2320"
+                        },
+                        "isChart": false,
+                        "url": "https://music.apple.com/us/playlist/inspired-by-the-beatles-a-k-a-the-white-album/pl.26f03d4bee294627977da1cd2e93fb81",
+                        "lastModifiedDate": "2021-09-07T18:27:26Z",
+                        "name": "Inspired by The Beatles (a.k.a. The White Album)",
+                        "playlistType": "editorial",
+                        "curatorName": "Apple Music Rock",
+                        "playParams": {
+                            "id": "pl.26f03d4bee294627977da1cd2e93fb81",
+                            "kind": "playlist"
+                        },
+                        "description": {
+                            "standard": "Containing the most beautifully eclectic collection of songs that the Fab Four ever recorded, this 1968 boundary-pusher likely influenced a wider variety of artists than any other Beatles album, and that's saying something. With atmospheric folk, quirky pop, world music pastiches, and multi-part rock epics, its songs helped shape everyone from Aerosmith to Elliot Smith, Radiohead, and beyond.",
+                            "short": "This album's musical and cultural impact can't be overstated."
+                        }
+                    }
+                }
+            ]
+        },
+        "songs": {
+            "href": "/v1/catalog/us/search?limit=8&term=beattles&types=songs",
+            "next": "/v1/catalog/us/search?offset=8&term=beattles&types=songs",
+            "data": [
+                {
+                    "id": "1441164589",
+                    "type": "songs",
+                    "href": "/v1/catalog/us/songs/1441164589",
+                    "attributes": {
+                        "previews": [
+                            {
+                                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/35/e7/90/35e79056-b3ca-851a-d0ed-b70db41160b1/mzaf_12446677178371615461.plus.aac.p.m4a"
+                            }
+                        ],
+                        "artwork": {
+                            "width": 3000,
+                            "height": 3000,
+                            "url": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/4e/08/f1/4e08f1ad-97ef-013f-9509-f9e3754fbb0a/00602567713449.rgb.jpg/{w}x{h}bb.jpg",
+                            "bgColor": "161d29",
+                            "textColor1": "f1f0da",
+                            "textColor2": "acdcf9",
+                            "textColor3": "c5c6b6",
+                            "textColor4": "8eb6cf"
+                        },
+                        "artistName": "The Beatles",
+                        "url": "https://music.apple.com/us/album/here-comes-the-sun/1441164426?i=1441164589",
+                        "discNumber": 1,
+                        "genreNames": [
+                            "Rock",
+                            "Music"
+                        ],
+                        "durationInMillis": 185733,
+                        "releaseDate": "1969-09-26",
+                        "name": "Here Comes the Sun",
+                        "isrc": "GBAYE0601696",
+                        "hasLyrics": true,
+                        "albumName": "Abbey Road (Remastered)",
+                        "playParams": {
+                            "id": "1441164589",
+                            "kind": "song"
+                        },
+                        "trackNumber": 7,
+                        "composerName": "George Harrison"
+                    }
+                },
+                {
+                    "id": "1441133277",
+                    "type": "songs",
+                    "href": "/v1/catalog/us/songs/1441133277",
+                    "attributes": {
+                        "previews": [
+                            {
+                                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a4/33/20/a433208b-4e66-598a-55db-2ab05a4a5c77/mzaf_8650423337535233229.plus.aac.p.m4a"
+                            }
+                        ],
+                        "artwork": {
+                            "width": 3000,
+                            "height": 3000,
+                            "url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/a2/2e/86/a22e86ed-f650-4b4b-0324-9ab91bf53637/00602567725572.rgb.jpg/{w}x{h}bb.jpg",
+                            "bgColor": "0c4ca3",
+                            "textColor1": "f5feff",
+                            "textColor2": "d2dced",
+                            "textColor3": "c6daec",
+                            "textColor4": "aabfde"
+                        },
+                        "artistName": "The Beatles",
+                        "url": "https://music.apple.com/us/album/hey-jude/1441133100?i=1441133277",
+                        "discNumber": 1,
+                        "genreNames": [
+                            "Rock",
+                            "Music"
+                        ],
+                        "durationInMillis": 431333,
+                        "releaseDate": "1968-08-26",
+                        "name": "Hey Jude",
+                        "isrc": "GBAYE0900596",
+                        "hasLyrics": true,
+                        "albumName": "The Beatles 1967-1970 (The Blue Album)",
+                        "playParams": {
+                            "id": "1441133277",
+                            "kind": "song"
+                        },
+                        "trackNumber": 13,
+                        "composerName": "Paul McCartney & John Lennon"
+                    }
+                },
+                {
+                    "id": "1441164738",
+                    "type": "songs",
+                    "href": "/v1/catalog/us/songs/1441164738",
+                    "attributes": {
+                        "previews": [
+                            {
+                                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/29/61/b7/2961b729-d447-ff81-a410-9ca15d3d0843/mzaf_8191307905573724441.plus.aac.p.m4a"
+                            }
+                        ],
+                        "artwork": {
+                            "width": 3000,
+                            "height": 3000,
+                            "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/ae/98/4c/ae984c7a-cd06-a7cd-e8bf-32cb15ba698d/00602567705475.rgb.jpg/{w}x{h}bb.jpg",
+                            "bgColor": "000000",
+                            "textColor1": "f6f3f4",
+                            "textColor2": "f6b88c",
+                            "textColor3": "c4c3c3",
+                            "textColor4": "c49370"
+                        },
+                        "artistName": "The Beatles",
+                        "url": "https://music.apple.com/us/album/let-it-be/1441164495?i=1441164738",
+                        "discNumber": 1,
+                        "genreNames": [
+                            "Rock",
+                            "Music"
+                        ],
+                        "durationInMillis": 243027,
+                        "releaseDate": "1970-03-06",
+                        "name": "Let It Be",
+                        "isrc": "GBAYE0601713",
+                        "hasLyrics": true,
+                        "albumName": "Let It Be",
+                        "playParams": {
+                            "id": "1441164738",
+                            "kind": "song"
+                        },
+                        "trackNumber": 6,
+                        "composerName": "John Lennon & Paul McCartney"
+                    }
+                },
+                {
+                    "id": "1441164805",
+                    "type": "songs",
+                    "href": "/v1/catalog/us/songs/1441164805",
+                    "attributes": {
+                        "previews": [
+                            {
+                                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7b/1c/32/7b1c327c-78df-9439-778c-300da85adf3c/mzaf_11633099565582937279.plus.aac.p.m4a"
+                            }
+                        ],
+                        "artwork": {
+                            "width": 3000,
+                            "height": 3000,
+                            "url": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/db/1e/8e/db1e8e26-c6ef-07a6-3b64-4e39f2a620e0/00602567725220.rgb.jpg/{w}x{h}bb.jpg",
+                            "bgColor": "ffffff",
+                            "textColor1": "0b0b0b",
+                            "textColor2": "002f44",
+                            "textColor3": "3c3c3c",
+                            "textColor4": "33586a"
+                        },
+                        "artistName": "The Beatles",
+                        "url": "https://music.apple.com/us/album/yesterday/1441164524?i=1441164805",
+                        "discNumber": 1,
+                        "genreNames": [
+                            "Rock",
+                            "Music"
+                        ],
+                        "durationInMillis": 125667,
+                        "releaseDate": "1965-08-06",
+                        "name": "Yesterday",
+                        "isrc": "GBAYE0601477",
+                        "hasLyrics": true,
+                        "albumName": "Help!",
+                        "playParams": {
+                            "id": "1441164805",
+                            "kind": "song"
+                        },
+                        "trackNumber": 13,
+                        "composerName": "Paul McCartney & John Lennon"
+                    }
+                },
+                {
+                    "id": "1440844145",
+                    "type": "songs",
+                    "href": "/v1/catalog/us/songs/1440844145",
+                    "attributes": {
+                        "previews": [
+                            {
+                                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b2/36/e4/b236e45a-8050-0414-72ff-d477e22bb58b/mzaf_789672139731068638.plus.aac.p.m4a"
+                            }
+                        ],
+                        "artwork": {
+                            "width": 2100,
+                            "height": 2100,
+                            "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2f/60/61/2f606144-88e1-6981-8998-8f81b8ed2435/00602547933652.rgb.jpg/{w}x{h}bb.jpg",
+                            "bgColor": "ebeff2",
+                            "textColor1": "020102",
+                            "textColor2": "28150d",
+                            "textColor3": "303032",
+                            "textColor4": "4f403b"
+                        },
+                        "artistName": "Rae Sremmurd",
+                        "url": "https://music.apple.com/us/album/black-beatles-feat-gucci-mane/1440844129?i=1440844145",
+                        "discNumber": 1,
+                        "genreNames": [
+                            "Hip-Hop/Rap",
+                            "Music"
+                        ],
+                        "durationInMillis": 291891,
+                        "releaseDate": "2016-08-12",
+                        "name": "Black Beatles (feat. Gucci Mane)",
+                        "isrc": "USUM71603293",
+                        "hasLyrics": true,
+                        "albumName": "SremmLife 2 (Deluxe)",
+                        "playParams": {
+                            "id": "1440844145",
+                            "kind": "song"
+                        },
+                        "trackNumber": 5,
+                        "composerName": "A.Brown, K. Brown, M. Williams & R. Davis",
+                        "contentRating": "explicit"
+                    }
+                },
+                {
+                    "id": "1441165136",
+                    "type": "songs",
+                    "href": "/v1/catalog/us/songs/1441165136",
+                    "attributes": {
+                        "previews": [
+                            {
+                                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3f/85/82/3f8582c2-0d45-b964-019c-1d07dff1fbf5/mzaf_14764987307132054307.plus.aac.p.m4a"
+                            }
+                        ],
+                        "artwork": {
+                            "width": 3000,
+                            "height": 3000,
+                            "url": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/9c/ff/b5/9cffb5a6-a37f-c84a-7240-0333a071bc92/00602567725275.rgb.jpg/{w}x{h}bb.jpg",
+                            "bgColor": "ffffff",
+                            "textColor1": "272620",
+                            "textColor2": "2b261e",
+                            "textColor3": "52514c",
+                            "textColor4": "55514b"
+                        },
+                        "artistName": "The Beatles",
+                        "url": "https://music.apple.com/us/album/twist-and-shout/1441164816?i=1441165136",
+                        "discNumber": 1,
+                        "genreNames": [
+                            "Rock",
+                            "Music"
+                        ],
+                        "durationInMillis": 153225,
+                        "releaseDate": "1963-03-22",
+                        "name": "Twist and Shout",
+                        "isrc": "GBAYE0601423",
+                        "hasLyrics": true,
+                        "albumName": "Please Please Me",
+                        "playParams": {
+                            "id": "1441165136",
+                            "kind": "song"
+                        },
+                        "trackNumber": 14,
+                        "composerName": "Bert Russell & Phil Medley"
+                    }
+                },
+                {
+                    "id": "1441164829",
+                    "type": "songs",
+                    "href": "/v1/catalog/us/songs/1441164829",
+                    "attributes": {
+                        "previews": [
+                            {
+                                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5c/77/c1/5c77c105-9a32-bee4-0ffa-76244dacb60a/mzaf_5900747299452570221.plus.aac.p.m4a"
+                            }
+                        ],
+                        "artwork": {
+                            "width": 3000,
+                            "height": 3000,
+                            "url": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/af/20/aa/af20aa89-4002-11fb-25d8-ff544af67eb4/00602567725404.rgb.jpg/{w}x{h}bb.jpg",
+                            "bgColor": "05150a",
+                            "textColor1": "e76f24",
+                            "textColor2": "eb6311",
+                            "textColor3": "ba5d1f",
+                            "textColor4": "bd5310"
+                        },
+                        "artistName": "The Beatles",
+                        "url": "https://music.apple.com/us/album/in-my-life/1441164359?i=1441164829",
+                        "discNumber": 1,
+                        "genreNames": [
+                            "Rock",
+                            "Music"
+                        ],
+                        "durationInMillis": 146333,
+                        "releaseDate": "1965-12-03",
+                        "name": "In My Life",
+                        "isrc": "GBAYE0601489",
+                        "hasLyrics": true,
+                        "albumName": "Rubber Soul",
+                        "playParams": {
+                            "id": "1441164829",
+                            "kind": "song"
+                        },
+                        "trackNumber": 11,
+                        "composerName": "John Lennon & Paul McCartney"
+                    }
+                },
+                {
+                    "id": "1474815898",
+                    "type": "songs",
+                    "href": "/v1/catalog/us/songs/1474815898",
+                    "attributes": {
+                        "previews": [
+                            {
+                                "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/78/18/cc/7818cce5-1c20-1270-a9bf-b24e4be8c152/mzaf_7407478495292373909.plus.aac.p.m4a"
+                            }
+                        ],
+                        "artwork": {
+                            "width": 3000,
+                            "height": 3000,
+                            "url": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/f6/db/94/f6db94bd-35f8-2806-6459-dee4fbd85c68/19UMGIM68354.rgb.jpg/{w}x{h}bb.jpg",
+                            "bgColor": "140f13",
+                            "textColor1": "b0dffa",
+                            "textColor2": "42afef",
+                            "textColor3": "91b6cc",
+                            "textColor4": "398fc3"
+                        },
+                        "artistName": "The Beatles",
+                        "url": "https://music.apple.com/us/album/here-comes-the-sun-2019-mix/1474815798?i=1474815898",
+                        "discNumber": 1,
+                        "genreNames": [
+                            "Rock",
+                            "Music"
+                        ],
+                        "durationInMillis": 185707,
+                        "releaseDate": "1969-09-26",
+                        "name": "Here Comes the Sun (2019 Mix)",
+                        "isrc": "GBUM71903335",
+                        "hasLyrics": true,
+                        "albumName": "Abbey Road (2019 Mix)",
+                        "playParams": {
+                            "id": "1474815898",
+                            "kind": "song"
+                        },
+                        "trackNumber": 7,
+                        "composerName": "George Harrison"
+                    }
+                }
+            ]
+        },
+        "albums": {
+            "href": "/v1/catalog/us/search?limit=8&term=beattles&types=albums",
+            "next": "/v1/catalog/us/search?offset=8&term=beattles&types=albums",
+            "data": [
+                {
+                    "id": "1441133180",
+                    "type": "albums",
+                    "href": "/v1/catalog/us/albums/1441133180",
+                    "attributes": {
+                        "artwork": {
+                            "width": 3000,
+                            "height": 3000,
+                            "url": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/fa/5b/89/fa5b898d-bad6-e053-4195-260e5c74f2bb/00602567725466.rgb.jpg/{w}x{h}bb.jpg",
+                            "bgColor": "ffffff",
+                            "textColor1": "0c0a0a",
+                            "textColor2": "0c0a0a",
+                            "textColor3": "3c3b3b",
+                            "textColor4": "3c3b3b"
+                        },
+                        "artistName": "The Beatles",
+                        "isSingle": false,
+                        "url": "https://music.apple.com/us/album/the-beatles-the-white-album/1441133180",
+                        "isComplete": true,
+                        "genreNames": [
+                            "Rock",
+                            "Music",
+                            "Hard Rock",
+                            "Pop",
+                            "Pop/Rock",
+                            "Soft Rock",
+                            "Arena Rock",
+                            "Psychedelic",
+                            "Rock & Roll"
+                        ],
+                        "trackCount": 31,
+                        "isMasteredForItunes": true,
+                        "releaseDate": "1968-11-22",
+                        "name": "The Beatles (The White Album)",
+                        "recordLabel": "UMC (Universal Music Catalogue)",
+                        "upc": "00602567725466",
+                        "copyright": "This Compilation ℗ 2009 Calderstone Productions Limited (a division of Universal Music Group)",
+                        "playParams": {
+                            "id": "1441133180",
+                            "kind": "album"
+                        },
+                        "editorialNotes": {
+                            "standard": "Beneath the white-on-white cover art, \"The White Album\" is an eclectic, 30-track album of largely stripped-down material, originally spread across two vinyl records. The album was a stark contrast to <i>Sgt. Pepper</i> in every aspect—from the cover art to the sounds within. The sheer breadth of material as well as the mixture of the loud and the soft is part of what makes \"The White Album\" so surprising. The heavy sounds of \"Helter Skelter\" and \"Yer Blues\" juxtapose with the gentle beauty of \"Long, Long, Long\" and \"Julia.\" The cacophony of \"Revolution 9\" is followed by the orchestral lullaby of \"Good Night.\" The album's extended length gave the band room in which they could explore all of their musical influences and multiple forms of popular music, while creating revolutionary sounds in the studio.",
+                            "short": "An eclectic 30-track album with a stunning breadth of material and dynamic songs. \n"
+                        },
+                        "isCompilation": false
+                    }
+                },
+                {
+                    "id": "1474815798",
+                    "type": "albums",
+                    "href": "/v1/catalog/us/albums/1474815798",
+                    "attributes": {
+                        "artwork": {
+                            "width": 3000,
+                            "height": 3000,
+                            "url": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/f6/db/94/f6db94bd-35f8-2806-6459-dee4fbd85c68/19UMGIM68354.rgb.jpg/{w}x{h}bb.jpg",
+                            "bgColor": "140f13",
+                            "textColor1": "b0dffa",
+                            "textColor2": "42afef",
+                            "textColor3": "91b6cc",
+                            "textColor4": "398fc3"
+                        },
+                        "artistName": "The Beatles",
+                        "isSingle": false,
+                        "url": "https://music.apple.com/us/album/abbey-road-2019-mix/1474815798",
+                        "isComplete": true,
+                        "genreNames": [
+                            "Rock",
+                            "Music",
+                            "Rock & Roll",
+                            "Pop",
+                            "Pop/Rock",
+                            "Prog-Rock/Art Rock",
+                            "Adult Contemporary",
+                            "Hard Rock",
+                            "Soft Rock",
+                            "Psychedelic",
+                            "Arena Rock"
+                        ],
+                        "trackCount": 17,
+                        "isMasteredForItunes": true,
+                        "releaseDate": "1969-09-26",
+                        "name": "Abbey Road (2019 Mix)",
+                        "recordLabel": "UMC (Universal Music Catalogue)",
+                        "upc": "00602508145636",
+                        "copyright": "℗ 2019 Calderstone Productions Limited (a Division of Universal Music Group) / Apple Corps Limited",
+                        "playParams": {
+                            "id": "1474815798",
+                            "kind": "album"
+                        },
+                        "editorialNotes": {
+                            "standard": "<i>This release includes content in Spatial Audio with Dolby Atmos.</i><br /><br /><i>All Apple Music subscribers using the latest version of Apple Music on iPhone, iPad, Mac, and Apple TV can listen to thousands of Dolby Atmos Music tracks using any headphones. When listening with compatible* Apple or Beats headphones, Dolby Atmos Music will play back automatically when available for a song. For other headphones, go to Settings > Music > Audio and set the Dolby Atmos switch to “Always On.” You can also hear Dolby Atmos Music using the built-in speakers on compatible** iPhones, iPads, and MacBook Pros, or by connecting your Apple TV 4K to a compatible TV or AV receiver.<br />\n*AirPods, AirPods Pro, AirPods Max, BeatsX, Beats Solo3, Beats Studio3, Powerbeats3, Beats Flex, Powerbeats Pro, and Beats Solo Pro<br />\n**Works with iPhone 7 or later with the latest version of iOS; 12.9-inch iPad Pro (3rd generation or later), 11-inch iPad Pro, iPad (6th generation or later), iPad Air (3rd generation), and iPad mini (5th generation) with the latest version of iPadOS; and MacBook (2018 model and later).</i>"
+                        },
+                        "isCompilation": false
+                    }
+                },
+                {
+                    "id": "1582219768",
+                    "type": "albums",
+                    "href": "/v1/catalog/us/albums/1582219768",
+                    "attributes": {
+                        "artwork": {
+                            "width": 3000,
+                            "height": 3000,
+                            "url": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/c8/6d/05/c86d05fa-8056-9b42-3483-0e9e474da327/21UMGIM61111.rgb.jpg/{w}x{h}bb.jpg",
+                            "bgColor": "010101",
+                            "textColor1": "ffffff",
+                            "textColor2": "f1efdf",
+                            "textColor3": "cccccc",
+                            "textColor4": "c1bfb2"
+                        },
+                        "artistName": "The Beatles",
+                        "isSingle": false,
+                        "url": "https://music.apple.com/us/album/let-it-be-2021-mix/1582219768",
+                        "isComplete": false,
+                        "genreNames": [
+                            "Rock",
+                            "Music"
+                        ],
+                        "trackCount": 12,
+                        "isMasteredForItunes": true,
+                        "releaseDate": "1970-05-08",
+                        "name": "Let It Be (2021 Mix)",
+                        "recordLabel": "UMC (Universal Music Catalogue)",
+                        "upc": "00602438575688",
+                        "copyright": "℗ 2021 Calderstone Productions Limited (a division of Universal Music Group)",
+                        "playParams": {
+                            "id": "1582219768",
+                            "kind": "album"
+                        },
+                        "isCompilation": false
+                    }
+                },
+                {
+                    "id": "1441164426",
+                    "type": "albums",
+                    "href": "/v1/catalog/us/albums/1441164426",
+                    "attributes": {
+                        "artwork": {
+                            "width": 3000,
+                            "height": 3000,
+                            "url": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/4e/08/f1/4e08f1ad-97ef-013f-9509-f9e3754fbb0a/00602567713449.rgb.jpg/{w}x{h}bb.jpg",
+                            "bgColor": "161d29",
+                            "textColor1": "f1f0da",
+                            "textColor2": "acdcf9",
+                            "textColor3": "c5c6b6",
+                            "textColor4": "8eb6cf"
+                        },
+                        "artistName": "The Beatles",
+                        "isSingle": false,
+                        "url": "https://music.apple.com/us/album/abbey-road-remastered/1441164426",
+                        "isComplete": true,
+                        "genreNames": [
+                            "Rock",
+                            "Music",
+                            "Arena Rock",
+                            "Rock & Roll",
+                            "Prog-Rock/Art Rock",
+                            "Pop",
+                            "Pop/Rock",
+                            "Adult Contemporary",
+                            "Hard Rock",
+                            "Psychedelic",
+                            "Soft Rock"
+                        ],
+                        "trackCount": 18,
+                        "isMasteredForItunes": true,
+                        "releaseDate": "1969-09-26",
+                        "name": "Abbey Road (Remastered)",
+                        "recordLabel": "UMC (Universal Music Catalogue)",
+                        "upc": "00602567713449",
+                        "copyright": "This Compilation ℗ 2009 Calderstone Productions Limited (a division of Universal Music Group)",
+                        "playParams": {
+                            "id": "1441164426",
+                            "kind": "album"
+                        },
+                        "editorialNotes": {
+                            "standard": "<i>Abbey Road</i> uses a \"less is more\" approach to production throughout, giving \"Come Together\" a controlled intensity while the raw sound of Paul's voice on \"Oh! Darling\" is one of the album's highlights. The sound of a whole band working together flawlessly is heard most notably in the 8-title dramatic medley that made up the second side of the vinyl; finishing fittingly with “The End.” ",
+                            "short": "The sound of the whole band working together flawlessly with a less-is-more approach.\n"
+                        },
+                        "isCompilation": false
+                    }
+                },
+                {
+                    "id": "1441164604",
+                    "type": "albums",
+                    "href": "/v1/catalog/us/albums/1441164604",
+                    "attributes": {
+                        "artwork": {
+                            "width": 3000,
+                            "height": 3000,
+                            "url": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/6f/79/8d/6f798d84-7475-8525-fc91-f7b51b2b5a9b/00602567725428.rgb.jpg/{w}x{h}bb.jpg",
+                            "bgColor": "92d9f9",
+                            "textColor1": "160a02",
+                            "textColor2": "1b1a1d",
+                            "textColor3": "2e3333",
+                            "textColor4": "334049"
+                        },
+                        "artistName": "The Beatles",
+                        "isSingle": false,
+                        "url": "https://music.apple.com/us/album/sgt-peppers-lonely-hearts-club-band/1441164604",
+                        "isComplete": true,
+                        "genreNames": [
+                            "Rock",
+                            "Music",
+                            "Pop",
+                            "Soft Rock",
+                            "Pop/Rock",
+                            "Psychedelic",
+                            "Hard Rock",
+                            "Rock & Roll"
+                        ],
+                        "trackCount": 14,
+                        "isMasteredForItunes": true,
+                        "releaseDate": "1967-06-01",
+                        "name": "Sgt. Pepper's Lonely Hearts Club Band",
+                        "recordLabel": "UMC (Universal Music Catalogue)",
+                        "upc": "00602567725428",
+                        "copyright": "℗ 2009 Calderstone Productions Limited (a division of Universal Music Group)",
+                        "playParams": {
+                            "id": "1441164604",
+                            "kind": "album"
+                        },
+                        "editorialNotes": {
+                            "standard": "For better and worse, <i>Sgt. Pepper’s Lonely Hearts Club Band</i> helped set the precedent that rock bands could (and should) do more or less whatever they wanted. Songs got longer, albums grew concepts, and the idea of the LP as a concise product meant to showcase a performer’s talents gave way to the suspicion that commercial concerns ultimately only served The Man. A few months before The Beatles were set to record <i>Sgt. Pepper’s</i>, Bob Dylan had released <i>Blonde on Blonde</i>, an album so expansive it had to literally be pressed onto two records, while The Beach Boys’ <i>Pet Sounds</i> stretched the dimensions and possibilities of the three-minute pop song. McCartney in particular had been fascinated by things like Frank Zappa & The Mothers of Invention’s 1966 debut, <i>Freak Out!</i>, a double album whose hodgepodge of songs, noise, skits, and sound gags mirrored conceptual art’s breaking of the painterly frame. Where The Beatles had once sought to distill and consolidate, now they were looking to expand. McCartney had even come up with an alter ego and pseudo-unifying backstory—a move Lennon later said only worked because the band <i>said</i> it worked. In other words, they didn’t want to just exorcise the group that made “I Want to Hold Your Hand,” they wanted to smother them with a pillow. Vacationing in France just before recording had started, McCartney slicked his hair back with Vaseline and wandered the streets in a fake mustache and clear-lens glasses, an experience he called “quite liberating.”<br />\nFor all its experiments (“A Day in the Life”) and invocations of the counterculture (“Lucy in the Sky With Diamonds”), it’s probably the band’s most conservative album: the beer hall sing-alongs of the title track and “With a Little Help From My Friends,” the old-timey entertainments of “Being for the Benefit of Mister Kite!,” the domestic contentment of “When I’m Sixty-Four.” Like The Kinks circa “Waterloo Sunset” and <i>The Kinks Are the Village Green Preservation Society</i> and The Beach Boys of <i>Smiley Smile</i>, <i>Sgt. Pepper’s</i> is an album that looked toward the past instead of the future, the work of guys in their late twenties starting to wonder if they’d been too eager to break from the old world—or at least might have lost something along the way. (Lennon’s “Strawberry Fields Forever,” recorded around the same time, covered similar themes; that the band was all taking acid—a drug that has a way of flattening geologic time—probably didn’t hurt either.) Even Lennon’s lyric on “A Day in the Life”—“I read the news today, oh boy”—rang with a cosmic quaintness, an image not of young radicals on the loose but of the aging souls of “Eleanor Rigby,” finding infinite richness in a narrow life. A couple of months after the album was released, the band—along with partners, children, and business infrastructure—traveled to Greece with the vague intention of buying an island for everyone to live on, but eventually managed to think better of it.",
+                            "short": "A new template for rock ’n' roll."
+                        },
+                        "isCompilation": false
+                    }
+                },
+                {
+                    "id": "1441164359",
+                    "type": "albums",
+                    "href": "/v1/catalog/us/albums/1441164359",
+                    "attributes": {
+                        "artwork": {
+                            "width": 3000,
+                            "height": 3000,
+                            "url": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/af/20/aa/af20aa89-4002-11fb-25d8-ff544af67eb4/00602567725404.rgb.jpg/{w}x{h}bb.jpg",
+                            "bgColor": "05150a",
+                            "textColor1": "e76f24",
+                            "textColor2": "eb6311",
+                            "textColor3": "ba5d1f",
+                            "textColor4": "bd5310"
+                        },
+                        "artistName": "The Beatles",
+                        "isSingle": false,
+                        "url": "https://music.apple.com/us/album/rubber-soul/1441164359",
+                        "isComplete": true,
+                        "genreNames": [
+                            "Rock",
+                            "Music",
+                            "Pop",
+                            "Pop/Rock",
+                            "British Invasion",
+                            "Singer/Songwriter",
+                            "Folk-Rock",
+                            "Soft Rock",
+                            "Rock & Roll",
+                            "Psychedelic"
+                        ],
+                        "trackCount": 15,
+                        "isMasteredForItunes": true,
+                        "releaseDate": "1965-12-03",
+                        "name": "Rubber Soul",
+                        "recordLabel": "UMC (Universal Music Catalogue)",
+                        "upc": "00602567725404",
+                        "copyright": "℗ 2009 Calderstone Productions Limited (a division of Universal Music Group)",
+                        "playParams": {
+                            "id": "1441164359",
+                            "kind": "album"
+                        },
+                        "editorialNotes": {
+                            "standard": "It wasn’t just that <i>Rubber Soul</i> was sonically groundbreaking (it was), or that Lennon and McCartney’s songwriting had reached new heights of maturity and ambiguity (okay), but that it was the first Beatles album where each song seemed to exist unto itself and yet worked in alchemical harmony with everything around it: the emergence of the pop album as creative kaleidoscope.<br />\nMcCartney had told the <i>New Musical Express</i> that the band was banking on comedy being the next big thing after protest music—a reflection, possibly, of the existential irreverence one feels on acid, their growing insularity from (and reluctance toward) the culture at large, a philosophical commitment to enjoying the ride, or some giddy mix of all three.<br />\nWhatever the case, <i>Rubber Soul</i> is a deeply funny album: the gender play of “Drive My Car” (and the <i>beep-beep</i> backing vocals), the cabaret of “Michelle” (because nothing warms up the object of one’s desire like French), the way Lennon sucks deeply through his teeth before oozing the chorus to “Girl.” Even the album’s most earnest songs (“Nowhere Man,” “In My Life”) were touched by a nursery-rhyme gentleness that made their themes (psychic alienation, the astonishing continuity of past and present) go down easily. As for “Norwegian Wood,” what can you really do with the suggestion that the narrator burns the girl’s house down but shrug in uncertainty? This is how the album unfolds: colorful, dreamy, and delirious on the surface, with shadows swimming underneath.<br />\nThe overall feeling is one of liberation: In getting a little chemical-assisted distance from their egos, the band was able to explore style in ways that felt fluid and radical, changing costumes from song to song instead of locking themselves continuously into being The Beatles—a channel-changing approach that only became more pronounced as their career wound on (especially on the White Album and <i>Abbey Road</i>), not to mention set a new precedent for the diversity of modes and expressions pop artists were suddenly allowed to explore. As for the title, McCartney had remembered something an old bluesman said about Mick Jagger—that he was “plastic soul.” In the original iteration, it was a diss; in The Beatles’ version, it was a statement of liberation: In embracing artifice, you free yourself from the confines of the real.",
+                            "short": "A big, colorful breakthrough."
+                        },
+                        "isCompilation": false
+                    }
+                },
+                {
+                    "id": "1441164670",
+                    "type": "albums",
+                    "href": "/v1/catalog/us/albums/1441164670",
+                    "attributes": {
+                        "artwork": {
+                            "width": 3000,
+                            "height": 3000,
+                            "url": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/58/4a/10/584a1058-de0a-6a6b-d0bd-da09a028b8bc/00602567705499.rgb.jpg/{w}x{h}bb.jpg",
+                            "bgColor": "eaeaea",
+                            "textColor1": "121212",
+                            "textColor2": "262424",
+                            "textColor3": "3d3d3d",
+                            "textColor4": "4d4b4c"
+                        },
+                        "artistName": "The Beatles",
+                        "isSingle": false,
+                        "url": "https://music.apple.com/us/album/revolver/1441164670",
+                        "isComplete": true,
+                        "genreNames": [
+                            "Rock",
+                            "Music",
+                            "Rock & Roll",
+                            "British Invasion",
+                            "Psychedelic",
+                            "Pop",
+                            "Soft Rock",
+                            "Pop/Rock"
+                        ],
+                        "trackCount": 15,
+                        "isMasteredForItunes": true,
+                        "releaseDate": "1966-08-05",
+                        "name": "Revolver",
+                        "recordLabel": "UMC (Universal Music Catalogue)",
+                        "upc": "00602567705499",
+                        "copyright": "℗ 2009 Calderstone Productions Limited (a division of Universal Music Group)",
+                        "playParams": {
+                            "id": "1441164670",
+                            "kind": "album"
+                        },
+                        "editorialNotes": {
+                            "standard": "While it’s romantic to imagine that <i>Revolver</i> was a bolt of genius that arrived without context or precedent, the reality is more interesting. Sometime in 1965, The Beatles' longtime producer George Martin quit his contract with EMI Records. Martin had been working at a flat rate, without royalties—in other words, he would’ve made what he made no matter how well the band did. Martin knew EMI wouldn’t risk jeopardizing the band’s streak, and in leaving, he essentially forced the company to pay him what he was worth. That EMI owned the studios at Abbey Road outright meant The Beatles could record more or less as much as they wanted—an opportunity that, coupled with their increasing reluctance to tour, marked an existential shift in orientation: The Beatles were a studio band now.<br />\nWhat was once a refuge (the band liked recording in part because it gave them a break from the fatigue of touring and public fame) turned into a hub of inspiration. Some results were obvious: the wild tape-loop collages of “Tomorrow Never Knows,” or George Harrison's guitar solo on “I’m Only Sleeping,” made during a six-hour session in which the part was transcribed in reverse by Martin, then recorded with the tape playing backward so as to make the final product sound like it was being sucked out from inside the song. Others—compression, Leslie speakers that gave vocals a liquid, sloshing quality, and automatic double-tracking capacity that allowed the band to split signals across the stereo field and give the recordings new spatial dimension—were subtler, but in all cases pointed to a supremacy of sound for sound’s sake. The pastiche of faces and lack of band attribution on the album’s cover drove home the point: For all the 300-something hours that went into the album’s recording, it’s hard to picture <i>Revolver</i> being made by four guys standing in a room.<br />\nWhile McCartney was getting more interested in characters and scenarios (“For No One,” “Eleanor Rigby”), Lennon—then starting to steep in LSD—was withdrawing into the mysteries of the self (“She Said She Said,” “Tomorrow Never Knows”). Harrison, previously a little peripheral, found not only a voice, but range: Compare the serrated R&B of “Taxman” to the Indian drones of “Love You To”—a contrast as stark as any in the band’s catalog.<br />\nIn a way, it’s understandable why the album was considered minor compared to <i>Sgt. Pepper’s</i> for so long: <i>Pepper’s</i> had a rambling, mythic quality that made it seem like something more than just a set of songs, while <i>Revolver</i> was still essentially following the rubric of <i>Rubber Soul</i>—a compact set of tracks meant to show the best ideas the band had. But if <i>Pepper’s</i> liberated the concept of the big, sprawling rock album, <i>Revolver</i> still speaks to how we understand 21st-century pop: fragmented, super eclectic, each song a fully saturated mood different from the one three minutes in either direction. Where <i>Pepper’s</i> ambled, <i>Revolver</i> honored the entertainer’s timeless responsibility to grab you by the ears.<br />\nLess than a week after the album was released, the band held a press conference at the Astor Hotel in Chicago, where Lennon was inevitably forced to clarify his observation from the previous March that The Beatles had become more popular than Jesus—a comment controversial enough to be publicly denounced by the Vatican, who noted that some subjects should be respected even by beatniks. A few questions later, a member of the press noted—respectfully in both directions—that Jesus probably would have appreciated “Eleanor Rigby.” Lennon, so exhausted and troubled by the ordeal that he’d broken down in tears while preparing to meet the reporters, demurred.",
+                            "short": "The big leap forward."
+                        },
+                        "isCompilation": false
+                    }
+                },
+                {
+                    "id": "1573250333",
+                    "type": "albums",
+                    "href": "/v1/catalog/us/albums/1573250333",
+                    "attributes": {
+                        "artwork": {
+                            "width": 3000,
+                            "height": 3000,
+                            "url": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/64/85/d2/6485d219-91ac-5481-2668-7eab1320436d/21UMGIM57007.rgb.jpg/{w}x{h}bb.jpg",
+                            "bgColor": "f0c84c",
+                            "textColor1": "060b05",
+                            "textColor2": "160f0f",
+                            "textColor3": "353113",
+                            "textColor4": "41341b"
+                        },
+                        "artistName": "The Beatles",
+                        "isSingle": false,
+                        "url": "https://music.apple.com/us/album/sgt-peppers-lonely-hearts-club-band-remix/1573250333",
+                        "isComplete": true,
+                        "genreNames": [
+                            "Rock",
+                            "Music"
+                        ],
+                        "trackCount": 13,
+                        "isMasteredForItunes": true,
+                        "releaseDate": "1967-06-01",
+                        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remix)",
+                        "recordLabel": "UMC (Universal Music Catalogue)",
+                        "upc": "00602438517718",
+                        "copyright": "℗ 2021 Calderstone Productions Limited (a Division of Universal Music Group) / Apple Corps Limited",
+                        "playParams": {
+                            "id": "1573250333",
+                            "kind": "album"
+                        },
+                        "isCompilation": false
+                    }
+                }
+            ]
+        },
+        "music-videos": {
+            "href": "/v1/catalog/us/search?limit=8&term=beattles&types=music-videos",
+            "next": "/v1/catalog/us/search?offset=12&term=beattles&types=music-videos",
+            "data": [
+                {
+                    "id": "1441164605",
+                    "type": "music-videos",
+                    "href": "/v1/catalog/us/music-videos/1441164605",
+                    "attributes": {
+                        "previews": [
+                            {
+                                "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video128/v4/c8/c2/5d/c8c25da6-7d0c-96f1-aac3-46327a8df4b9/mzvf_6335698470678701766.640x480.h264lc.U.p.m4v",
+                                "hlsUrl": "https://play.itunes.apple.com/WebObjects/MZPlay.woa/hls/playlist.m3u8?cc=US&a=1441164605&id=56329070&l=en&aec=HD",
+                                "artwork": {
+                                    "width": 640,
+                                    "height": 480,
+                                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Video128/v4/34/48/3b/34483bc3-208d-750e-0b45-9d738dbb8c73/Job1ac3f65b-b4a2-4b5b-b4ee-02394e7209cc-101410151-PreviewImage_preview_image_45000_video_sdr-Time1541440680662.png/{w}x{h}bb.jpg",
+                                    "bgColor": "171f25",
+                                    "textColor1": "bddbf5",
+                                    "textColor2": "cad3be",
+                                    "textColor3": "9cb6cb",
+                                    "textColor4": "a6af9f"
+                                }
+                            }
+                        ],
+                        "artwork": {
+                            "width": 640,
+                            "height": 601,
+                            "url": "https://is2-ssl.mzstatic.com/image/thumb/Video128/v4/fe/e3/0e/fee30ed8-29ec-d801-b04e-0c4f462c1e1c/dj.nwwecdmi.jpg/{w}x{h}mv.jpg",
+                            "bgColor": "101010",
+                            "textColor1": "ececdf",
+                            "textColor2": "bcddff",
+                            "textColor3": "c0c0b5",
+                            "textColor4": "99b3cf"
+                        },
+                        "artistName": "The Beatles",
+                        "url": "https://music.apple.com/us/music-video/abbey-road-documentary/1441164605",
+                        "genreNames": [
+                            "Rock"
+                        ],
+                        "has4K": false,
+                        "durationInMillis": 232000,
+                        "releaseDate": "2019-05-22",
+                        "name": "Abbey Road (Documentary)",
+                        "isrc": "GBDCE0900018",
+                        "albumName": "Abbey Road (Remastered)",
+                        "playParams": {
+                            "id": "1441164605",
+                            "kind": "musicVideo"
+                        },
+                        "trackNumber": 18,
+                        "hasHDR": false
+                    }
+                },
+                {
+                    "id": "1441164850",
+                    "type": "music-videos",
+                    "href": "/v1/catalog/us/music-videos/1441164850",
+                    "attributes": {
+                        "previews": [
+                            {
+                                "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video128/v4/0d/16/37/0d163730-016b-d688-c8d7-dce416677dac/mzvf_49732681106238244.640x480.h264lc.U.p.m4v",
+                                "hlsUrl": "https://play.itunes.apple.com/WebObjects/MZPlay.woa/hls/playlist.m3u8?cc=US&a=1441164850&id=56328963&l=en&aec=HD",
+                                "artwork": {
+                                    "width": 640,
+                                    "height": 480,
+                                    "url": "https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/a9/46/f6/a946f692-77d2-37aa-f02a-dfd55c78205f/Job759e9ed8-8dd3-4e20-980b-d090082cfbd0-101410156-PreviewImage_preview_image_45000_video_sdr-Time1541440690267.png/{w}x{h}bb.jpg",
+                                    "bgColor": "c7c7c7",
+                                    "textColor1": "0d0d0d",
+                                    "textColor2": "222222",
+                                    "textColor3": "323232",
+                                    "textColor4": "434343"
+                                }
+                            }
+                        ],
+                        "artwork": {
+                            "width": 640,
+                            "height": 577,
+                            "url": "https://is4-ssl.mzstatic.com/image/thumb/Video118/v4/5e/e4/be/5ee4bec8-fc44-cd88-b406-e5b1b26218b3/dj.szhcfren.jpg/{w}x{h}mv.jpg",
+                            "bgColor": "001800",
+                            "textColor1": "e5b981",
+                            "textColor2": "e87517",
+                            "textColor3": "b79967",
+                            "textColor4": "b96213"
+                        },
+                        "artistName": "The Beatles",
+                        "url": "https://music.apple.com/us/music-video/rubber-soul-documentary/1441164850",
+                        "genreNames": [
+                            "Pop"
+                        ],
+                        "has4K": false,
+                        "durationInMillis": 198000,
+                        "releaseDate": "2019-05-22",
+                        "name": "Rubber Soul (Documentary)",
+                        "isrc": "GBDCE0900012",
+                        "albumName": "Rubber Soul",
+                        "playParams": {
+                            "id": "1441164850",
+                            "kind": "musicVideo"
+                        },
+                        "trackNumber": 15,
+                        "hasHDR": false
+                    }
+                },
+                {
+                    "id": "1441165242",
+                    "type": "music-videos",
+                    "href": "/v1/catalog/us/music-videos/1441165242",
+                    "attributes": {
+                        "previews": [
+                            {
+                                "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video125/v4/7d/e9/b7/7de9b774-6772-21a0-46db-6842bfb51480/mzvf_1727637869879434812.640x480.h264lc.U.p.m4v",
+                                "hlsUrl": "https://play.itunes.apple.com/WebObjects/MZPlay.woa/hls/playlist.m3u8?cc=US&a=1441165242&id=304463469&l=en&aec=HD",
+                                "artwork": {
+                                    "width": 640,
+                                    "height": 480,
+                                    "url": "https://is4-ssl.mzstatic.com/image/thumb/Video115/v4/9e/24/e7/9e24e7f9-9971-a099-3b78-efaddd484902/Job3c6370f4-9ef5-4917-b9de-c10a4c4056ac-116734661-PreviewImage_preview_image_45000_video_sdr-Time1625576962807.png/{w}x{h}bb.jpg",
+                                    "bgColor": "f4f4f4",
+                                    "textColor1": "171717",
+                                    "textColor2": "2c2c2c",
+                                    "textColor3": "434343",
+                                    "textColor4": "545454"
+                                }
+                            }
+                        ],
+                        "artwork": {
+                            "width": 640,
+                            "height": 599,
+                            "url": "https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/47/37/f7/4737f7c5-fca0-9d8f-1891-317f25d15682/dj.cnmwggeq.jpg/{w}x{h}mv.jpg",
+                            "bgColor": "fafafa",
+                            "textColor1": "000000",
+                            "textColor2": "242424",
+                            "textColor3": "323232",
+                            "textColor4": "4f4f4f"
+                        },
+                        "artistName": "The Beatles",
+                        "url": "https://music.apple.com/us/music-video/revolver-documentary/1441165242",
+                        "genreNames": [
+                            "Pop"
+                        ],
+                        "has4K": false,
+                        "durationInMillis": 233000,
+                        "releaseDate": "2019-05-22",
+                        "name": "Revolver (Documentary)",
+                        "isrc": "GBDCE0900013",
+                        "albumName": "Revolver",
+                        "playParams": {
+                            "id": "1441165242",
+                            "kind": "musicVideo"
+                        },
+                        "trackNumber": 15,
+                        "hasHDR": false
+                    }
+                },
+                {
+                    "id": "1441165171",
+                    "type": "music-videos",
+                    "href": "/v1/catalog/us/music-videos/1441165171",
+                    "attributes": {
+                        "previews": [
+                            {
+                                "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video128/v4/a0/9b/f3/a09bf39c-32c4-c632-776f-8ceaaadb4588/mzvf_3499488450420939566.640x480.h264lc.U.p.m4v",
+                                "hlsUrl": "https://play.itunes.apple.com/WebObjects/MZPlay.woa/hls/playlist.m3u8?cc=US&a=1441165171&id=56329100&l=en&aec=HD",
+                                "artwork": {
+                                    "width": 640,
+                                    "height": 480,
+                                    "url": "https://is4-ssl.mzstatic.com/image/thumb/Video118/v4/93/3f/ab/933fab6e-cba0-9558-0131-e8bb54a01639/Job064bf510-2acc-43a6-89f9-7d5efc0b7965-101409880-PreviewImage_preview_image_45000_video_sdr-Time1541440589999.png/{w}x{h}bb.jpg",
+                                    "bgColor": "070707",
+                                    "textColor1": "e2e2e2",
+                                    "textColor2": "c4c4c4",
+                                    "textColor3": "b6b6b6",
+                                    "textColor4": "9e9e9e"
+                                }
+                            }
+                        ],
+                        "artwork": {
+                            "width": 640,
+                            "height": 599,
+                            "url": "https://is3-ssl.mzstatic.com/image/thumb/Video128/v4/fa/ad/bd/faadbdd5-6a2f-7e37-36ff-3eb97e59b1bb/dj.mudaptym.jpg/{w}x{h}mv.jpg",
+                            "bgColor": "251e25",
+                            "textColor1": "fbf9ea",
+                            "textColor2": "aef9fc",
+                            "textColor3": "d0cdc2",
+                            "textColor4": "92cdd1"
+                        },
+                        "artistName": "The Beatles",
+                        "url": "https://music.apple.com/us/music-video/sgt-peppers-lonely-hearts-club-band-documentary/1441165171",
+                        "genreNames": [
+                            "Pop"
+                        ],
+                        "has4K": false,
+                        "durationInMillis": 248480,
+                        "releaseDate": "2019-05-22",
+                        "name": "Sgt. Pepper's Lonely Hearts Club Band (Documentary)",
+                        "isrc": "GBDCE0900014",
+                        "albumName": "Sgt. Pepper's Lonely Hearts Club Band",
+                        "playParams": {
+                            "id": "1441165171",
+                            "kind": "musicVideo"
+                        },
+                        "trackNumber": 14,
+                        "hasHDR": false
+                    }
+                },
+                {
+                    "id": "1441134703",
+                    "type": "music-videos",
+                    "href": "/v1/catalog/us/music-videos/1441134703",
+                    "attributes": {
+                        "previews": [
+                            {
+                                "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video118/v4/3c/01/ec/3c01ec81-97e4-c287-0597-16bcf9ff8b31/mzvf_9057179318496651970.640x478.h264lc.U.p.m4v",
+                                "hlsUrl": "https://play.itunes.apple.com/WebObjects/MZPlay.woa/hls/playlist.m3u8?cc=US&a=1441134703&id=56329294&l=en&aec=HD",
+                                "artwork": {
+                                    "width": 640,
+                                    "height": 479,
+                                    "url": "https://is4-ssl.mzstatic.com/image/thumb/Video118/v4/41/9a/ab/419aab0a-a0b0-7a4d-f4e7-5ff3e8e00416/Jobc2971769-ada0-49aa-a680-319ae792a9b2-101410215-PreviewImage_preview_image_45000_video_sdr-Time1541440604149.png/{w}x{h}bb.jpg",
+                                    "bgColor": "c1c1c1",
+                                    "textColor1": "020202",
+                                    "textColor2": "212121",
+                                    "textColor3": "282828",
+                                    "textColor4": "414141"
+                                }
+                            }
+                        ],
+                        "artwork": {
+                            "width": 640,
+                            "height": 571,
+                            "url": "https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/79/f1/42/79f14228-c3b7-9fec-372c-64bef19d5d86/00602567725466_00031.crop.jpg/{w}x{h}mv.jpg",
+                            "bgColor": "c8c8c8",
+                            "textColor1": "0a0a0a",
+                            "textColor2": "141414",
+                            "textColor3": "303030",
+                            "textColor4": "383838"
+                        },
+                        "artistName": "The Beatles",
+                        "url": "https://music.apple.com/us/music-video/the-beatles-documentary/1441134703",
+                        "genreNames": [
+                            "Pop"
+                        ],
+                        "has4K": false,
+                        "durationInMillis": 331490,
+                        "releaseDate": "2019-05-22",
+                        "name": "The Beatles (Documentary)",
+                        "isrc": "GBDCE0900016",
+                        "albumName": "The Beatles (The White Album)",
+                        "playParams": {
+                            "id": "1441134703",
+                            "kind": "musicVideo"
+                        },
+                        "trackNumber": 1,
+                        "hasHDR": false
+                    }
+                },
+                {
+                    "id": "1441164961",
+                    "type": "music-videos",
+                    "href": "/v1/catalog/us/music-videos/1441164961",
+                    "attributes": {
+                        "previews": [
+                            {
+                                "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video128/v4/82/65/14/82651432-fdb0-7cb0-1d5c-f37ec631a4a1/mzvf_2059206483639894288.640x480.h264lc.U.p.m4v",
+                                "hlsUrl": "https://play.itunes.apple.com/WebObjects/MZPlay.woa/hls/playlist.m3u8?cc=US&a=1441164961&id=56328966&l=en&aec=HD",
+                                "artwork": {
+                                    "width": 640,
+                                    "height": 480,
+                                    "url": "https://is3-ssl.mzstatic.com/image/thumb/Video128/v4/4b/36/65/4b366588-7bfc-e05e-4208-e51baf614c83/Jobc85c69ac-9bed-426a-a719-0a0a80ca407d-101410158-PreviewImage_preview_image_45000_video_sdr-Time1541440709237.png/{w}x{h}bb.jpg",
+                                    "bgColor": "34140c",
+                                    "textColor1": "d6ccc0",
+                                    "textColor2": "d5b0ae",
+                                    "textColor3": "b6a79c",
+                                    "textColor4": "b5918e"
+                                }
+                            }
+                        ],
+                        "artwork": {
+                            "width": 640,
+                            "height": 640,
+                            "url": "https://is4-ssl.mzstatic.com/image/thumb/Video128/v4/b5/5b/15/b55b1527-57f7-973c-3527-aee7a5c01092/dj.voruntve.jpg/{w}x{h}mv.jpg",
+                            "bgColor": "000000",
+                            "textColor1": "fafeff",
+                            "textColor2": "e4e4e4",
+                            "textColor3": "c7cbcb",
+                            "textColor4": "b6b6b6"
+                        },
+                        "artistName": "The Beatles",
+                        "url": "https://music.apple.com/us/music-video/let-it-be-documentary/1441164961",
+                        "genreNames": [
+                            "Pop"
+                        ],
+                        "has4K": false,
+                        "durationInMillis": 282000,
+                        "releaseDate": "2019-05-22",
+                        "name": "Let It Be (Documentary)",
+                        "isrc": "GBDCE0900019",
+                        "albumName": "Let It Be",
+                        "playParams": {
+                            "id": "1441164961",
+                            "kind": "musicVideo"
+                        },
+                        "trackNumber": 13,
+                        "hasHDR": false
+                    }
+                },
+                {
+                    "id": "337970522",
+                    "type": "music-videos",
+                    "href": "/v1/catalog/us/music-videos/337970522",
+                    "attributes": {
+                        "previews": [
+                            {
+                                "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video125/v4/c7/0b/f4/c70bf46c-1165-0da2-b119-da5cadeb7c5b/mzvf_6514845359571763002.640x392.h264lc.U.p.m4v",
+                                "hlsUrl": "https://play.itunes.apple.com/WebObjects/MZPlay.woa/hls/playlist.m3u8?cc=US&a=337970522&id=54079542&l=en&aec=HD",
+                                "artwork": {
+                                    "width": 640,
+                                    "height": 392,
+                                    "url": "https://is2-ssl.mzstatic.com/image/thumb/Video115/v4/9f/5c/1c/9f5c1c02-3c0a-ec1f-dee2-972719920f81/Job045e82d5-ee63-489a-a5bf-bc6e78377e4c-100329893-PreviewImage_preview_image_45000_video_sdr-Time1528521573559.png/{w}x{h}bb.jpg",
+                                    "bgColor": "040e0b",
+                                    "textColor1": "fcfffa",
+                                    "textColor2": "fff0c2",
+                                    "textColor3": "caceca",
+                                    "textColor4": "ccc29d"
+                                }
+                            }
+                        ],
+                        "artwork": {
+                            "width": 640,
+                            "height": 384,
+                            "url": "https://is3-ssl.mzstatic.com/image/thumb/Video/67/b5/91/mzi.ctlrvhnh.jpg/{w}x{h}mv.jpg"
+                        },
+                        "artistName": "John Mayer",
+                        "url": "https://music.apple.com/us/music-video/who-says/337970522",
+                        "genreNames": [
+                            "Rock"
+                        ],
+                        "has4K": false,
+                        "durationInMillis": 218558,
+                        "releaseDate": "2009-11-14",
+                        "name": "Who Says",
+                        "isrc": "USSM20901883",
+                        "albumName": "Battle Studies (Deluxe Version)",
+                        "playParams": {
+                            "id": "337970522",
+                            "kind": "musicVideo"
+                        },
+                        "trackNumber": 13,
+                        "hasHDR": false
+                    }
+                },
+                {
+                    "id": "1441163781",
+                    "type": "music-videos",
+                    "href": "/v1/catalog/us/music-videos/1441163781",
+                    "attributes": {
+                        "previews": [
+                            {
+                                "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video118/v4/0d/e3/7e/0de37e2f-c641-8ad1-ca11-242630499bc9/mzvf_2416964426330118845.640x480.h264lc.U.p.m4v",
+                                "hlsUrl": "https://play.itunes.apple.com/WebObjects/MZPlay.woa/hls/playlist.m3u8?cc=US&a=1441163781&id=56329038&l=en&aec=HD",
+                                "artwork": {
+                                    "width": 640,
+                                    "height": 480,
+                                    "url": "https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/7f/22/07/7f22074b-cbf5-3a0c-f32e-dee5589d2160/Job1be23c68-0d9e-4aac-abd7-59191b4722b8-101410147-PreviewImage_preview_image_45000_video_sdr-Time1541440661664.png/{w}x{h}bb.jpg",
+                                    "bgColor": "f0ffe8",
+                                    "textColor1": "292517",
+                                    "textColor2": "2b2911",
+                                    "textColor3": "515141",
+                                    "textColor4": "52543c"
+                                }
+                            }
+                        ],
+                        "artwork": {
+                            "width": 640,
+                            "height": 659,
+                            "url": "https://is5-ssl.mzstatic.com/image/thumb/Video62/v4/f1/28/2f/f1282f61-62f7-c2a0-994c-a94c71f28068/dj.rzsockkk.jpg/{w}x{h}mv.jpg",
+                            "bgColor": "fedd06",
+                            "textColor1": "000407",
+                            "textColor2": "4a1d39",
+                            "textColor3": "322f06",
+                            "textColor4": "6e432e"
+                        },
+                        "artistName": "The Beatles",
+                        "url": "https://music.apple.com/us/music-video/magical-mystery-tour-documentary/1441163781",
+                        "genreNames": [
+                            "Rock"
+                        ],
+                        "has4K": false,
+                        "durationInMillis": 214000,
+                        "releaseDate": "2019-05-22",
+                        "name": "Magical Mystery Tour (Documentary)",
+                        "isrc": "GBDCE0900015",
+                        "albumName": "Magical Mystery Tour",
+                        "playParams": {
+                            "id": "1441163781",
+                            "kind": "musicVideo"
+                        },
+                        "trackNumber": 12,
+                        "hasHDR": false
+                    }
+                }
+            ]
+        },
+        "artists": {
+            "href": "/v1/catalog/us/search?limit=8&term=beattles&types=artists",
+            "next": "/v1/catalog/us/search?offset=8&term=beattles&types=artists",
+            "data": [
+                {
+                    "id": "136975",
+                    "type": "artists",
+                    "href": "/v1/catalog/us/artists/136975",
+                    "attributes": {
+                        "url": "https://music.apple.com/us/artist/the-beatles/136975",
+                        "name": "The Beatles",
+                        "genreNames": [
+                            "Rock"
+                        ]
+                    },
+                    "relationships": {
+                        "albums": {
+                            "href": "/v1/catalog/us/artists/136975/albums",
+                            "next": "/v1/catalog/us/artists/136975/albums?offset=25",
+                            "data": [
+                                {
+                                    "id": "1474815798",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1474815798",
+                                    "attributes": {
+                                        "artwork": {
+                                            "width": 3000,
+                                            "height": 3000,
+                                            "url": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/f6/db/94/f6db94bd-35f8-2806-6459-dee4fbd85c68/19UMGIM68354.rgb.jpg/{w}x{h}bb.jpg",
+                                            "bgColor": "140f13",
+                                            "textColor1": "b0dffa",
+                                            "textColor2": "42afef",
+                                            "textColor3": "91b6cc",
+                                            "textColor4": "398fc3"
+                                        },
+                                        "artistName": "The Beatles",
+                                        "isSingle": false,
+                                        "url": "https://music.apple.com/us/album/abbey-road-2019-mix/1474815798",
+                                        "isComplete": true,
+                                        "genreNames": [
+                                            "Rock",
+                                            "Music",
+                                            "Rock & Roll",
+                                            "Pop",
+                                            "Pop/Rock",
+                                            "Prog-Rock/Art Rock",
+                                            "Adult Contemporary",
+                                            "Hard Rock",
+                                            "Soft Rock",
+                                            "Psychedelic",
+                                            "Arena Rock"
+                                        ],
+                                        "trackCount": 17,
+                                        "isMasteredForItunes": true,
+                                        "releaseDate": "1969-09-26",
+                                        "name": "Abbey Road (2019 Mix)",
+                                        "recordLabel": "UMC (Universal Music Catalogue)",
+                                        "upc": "00602508145636",
+                                        "copyright": "℗ 2019 Calderstone Productions Limited (a Division of Universal Music Group) / Apple Corps Limited",
+                                        "playParams": {
+                                            "id": "1474815798",
+                                            "kind": "album"
+                                        },
+                                        "editorialNotes": {
+                                            "standard": "<i>This release includes content in Spatial Audio with Dolby Atmos.</i><br /><br /><i>All Apple Music subscribers using the latest version of Apple Music on iPhone, iPad, Mac, and Apple TV can listen to thousands of Dolby Atmos Music tracks using any headphones. When listening with compatible* Apple or Beats headphones, Dolby Atmos Music will play back automatically when available for a song. For other headphones, go to Settings > Music > Audio and set the Dolby Atmos switch to “Always On.” You can also hear Dolby Atmos Music using the built-in speakers on compatible** iPhones, iPads, and MacBook Pros, or by connecting your Apple TV 4K to a compatible TV or AV receiver.<br />\n*AirPods, AirPods Pro, AirPods Max, BeatsX, Beats Solo3, Beats Studio3, Powerbeats3, Beats Flex, Powerbeats Pro, and Beats Solo Pro<br />\n**Works with iPhone 7 or later with the latest version of iOS; 12.9-inch iPad Pro (3rd generation or later), 11-inch iPad Pro, iPad (6th generation or later), iPad Air (3rd generation), and iPad mini (5th generation) with the latest version of iPadOS; and MacBook (2018 model and later).</i>"
+                                        },
+                                        "isCompilation": false
+                                    }
+                                },
+                                {
+                                    "id": "1573250333",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1573250333",
+                                    "attributes": {
+                                        "artwork": {
+                                            "width": 3000,
+                                            "height": 3000,
+                                            "url": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/64/85/d2/6485d219-91ac-5481-2668-7eab1320436d/21UMGIM57007.rgb.jpg/{w}x{h}bb.jpg",
+                                            "bgColor": "f0c84c",
+                                            "textColor1": "060b05",
+                                            "textColor2": "160f0f",
+                                            "textColor3": "353113",
+                                            "textColor4": "41341b"
+                                        },
+                                        "artistName": "The Beatles",
+                                        "isSingle": false,
+                                        "url": "https://music.apple.com/us/album/sgt-peppers-lonely-hearts-club-band-remix/1573250333",
+                                        "isComplete": true,
+                                        "genreNames": [
+                                            "Rock",
+                                            "Music"
+                                        ],
+                                        "trackCount": 13,
+                                        "isMasteredForItunes": true,
+                                        "releaseDate": "1967-06-01",
+                                        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remix)",
+                                        "recordLabel": "UMC (Universal Music Catalogue)",
+                                        "upc": "00602438517718",
+                                        "copyright": "℗ 2021 Calderstone Productions Limited (a Division of Universal Music Group) / Apple Corps Limited",
+                                        "playParams": {
+                                            "id": "1573250333",
+                                            "kind": "album"
+                                        },
+                                        "isCompilation": false
+                                    }
+                                },
+                                {
+                                    "id": "1441133180",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1441133180",
+                                    "attributes": {
+                                        "artwork": {
+                                            "width": 3000,
+                                            "height": 3000,
+                                            "url": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/fa/5b/89/fa5b898d-bad6-e053-4195-260e5c74f2bb/00602567725466.rgb.jpg/{w}x{h}bb.jpg",
+                                            "bgColor": "ffffff",
+                                            "textColor1": "0c0a0a",
+                                            "textColor2": "0c0a0a",
+                                            "textColor3": "3c3b3b",
+                                            "textColor4": "3c3b3b"
+                                        },
+                                        "artistName": "The Beatles",
+                                        "isSingle": false,
+                                        "url": "https://music.apple.com/us/album/the-beatles-the-white-album/1441133180",
+                                        "isComplete": true,
+                                        "genreNames": [
+                                            "Rock",
+                                            "Music",
+                                            "Hard Rock",
+                                            "Pop",
+                                            "Pop/Rock",
+                                            "Soft Rock",
+                                            "Arena Rock",
+                                            "Psychedelic",
+                                            "Rock & Roll"
+                                        ],
+                                        "trackCount": 31,
+                                        "isMasteredForItunes": true,
+                                        "releaseDate": "1968-11-22",
+                                        "name": "The Beatles (The White Album)",
+                                        "recordLabel": "UMC (Universal Music Catalogue)",
+                                        "upc": "00602567725466",
+                                        "copyright": "This Compilation ℗ 2009 Calderstone Productions Limited (a division of Universal Music Group)",
+                                        "playParams": {
+                                            "id": "1441133180",
+                                            "kind": "album"
+                                        },
+                                        "editorialNotes": {
+                                            "standard": "Beneath the white-on-white cover art, \"The White Album\" is an eclectic, 30-track album of largely stripped-down material, originally spread across two vinyl records. The album was a stark contrast to <i>Sgt. Pepper</i> in every aspect—from the cover art to the sounds within. The sheer breadth of material as well as the mixture of the loud and the soft is part of what makes \"The White Album\" so surprising. The heavy sounds of \"Helter Skelter\" and \"Yer Blues\" juxtapose with the gentle beauty of \"Long, Long, Long\" and \"Julia.\" The cacophony of \"Revolution 9\" is followed by the orchestral lullaby of \"Good Night.\" The album's extended length gave the band room in which they could explore all of their musical influences and multiple forms of popular music, while creating revolutionary sounds in the studio.",
+                                            "short": "An eclectic 30-track album with a stunning breadth of material and dynamic songs. \n"
+                                        },
+                                        "isCompilation": false
+                                    }
+                                },
+                                {
+                                    "id": "1441164426",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1441164426",
+                                    "attributes": {
+                                        "artwork": {
+                                            "width": 3000,
+                                            "height": 3000,
+                                            "url": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/4e/08/f1/4e08f1ad-97ef-013f-9509-f9e3754fbb0a/00602567713449.rgb.jpg/{w}x{h}bb.jpg",
+                                            "bgColor": "161d29",
+                                            "textColor1": "f1f0da",
+                                            "textColor2": "acdcf9",
+                                            "textColor3": "c5c6b6",
+                                            "textColor4": "8eb6cf"
+                                        },
+                                        "artistName": "The Beatles",
+                                        "isSingle": false,
+                                        "url": "https://music.apple.com/us/album/abbey-road-remastered/1441164426",
+                                        "isComplete": true,
+                                        "genreNames": [
+                                            "Rock",
+                                            "Music",
+                                            "Arena Rock",
+                                            "Rock & Roll",
+                                            "Prog-Rock/Art Rock",
+                                            "Pop",
+                                            "Pop/Rock",
+                                            "Adult Contemporary",
+                                            "Hard Rock",
+                                            "Psychedelic",
+                                            "Soft Rock"
+                                        ],
+                                        "trackCount": 18,
+                                        "isMasteredForItunes": true,
+                                        "releaseDate": "1969-09-26",
+                                        "name": "Abbey Road (Remastered)",
+                                        "recordLabel": "UMC (Universal Music Catalogue)",
+                                        "upc": "00602567713449",
+                                        "copyright": "This Compilation ℗ 2009 Calderstone Productions Limited (a division of Universal Music Group)",
+                                        "playParams": {
+                                            "id": "1441164426",
+                                            "kind": "album"
+                                        },
+                                        "editorialNotes": {
+                                            "standard": "<i>Abbey Road</i> uses a \"less is more\" approach to production throughout, giving \"Come Together\" a controlled intensity while the raw sound of Paul's voice on \"Oh! Darling\" is one of the album's highlights. The sound of a whole band working together flawlessly is heard most notably in the 8-title dramatic medley that made up the second side of the vinyl; finishing fittingly with “The End.” ",
+                                            "short": "The sound of the whole band working together flawlessly with a less-is-more approach.\n"
+                                        },
+                                        "isCompilation": false
+                                    }
+                                },
+                                {
+                                    "id": "1441164359",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1441164359",
+                                    "attributes": {
+                                        "artwork": {
+                                            "width": 3000,
+                                            "height": 3000,
+                                            "url": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/af/20/aa/af20aa89-4002-11fb-25d8-ff544af67eb4/00602567725404.rgb.jpg/{w}x{h}bb.jpg",
+                                            "bgColor": "05150a",
+                                            "textColor1": "e76f24",
+                                            "textColor2": "eb6311",
+                                            "textColor3": "ba5d1f",
+                                            "textColor4": "bd5310"
+                                        },
+                                        "artistName": "The Beatles",
+                                        "isSingle": false,
+                                        "url": "https://music.apple.com/us/album/rubber-soul/1441164359",
+                                        "isComplete": true,
+                                        "genreNames": [
+                                            "Rock",
+                                            "Music",
+                                            "Pop",
+                                            "Pop/Rock",
+                                            "British Invasion",
+                                            "Singer/Songwriter",
+                                            "Folk-Rock",
+                                            "Soft Rock",
+                                            "Rock & Roll",
+                                            "Psychedelic"
+                                        ],
+                                        "trackCount": 15,
+                                        "isMasteredForItunes": true,
+                                        "releaseDate": "1965-12-03",
+                                        "name": "Rubber Soul",
+                                        "recordLabel": "UMC (Universal Music Catalogue)",
+                                        "upc": "00602567725404",
+                                        "copyright": "℗ 2009 Calderstone Productions Limited (a division of Universal Music Group)",
+                                        "playParams": {
+                                            "id": "1441164359",
+                                            "kind": "album"
+                                        },
+                                        "editorialNotes": {
+                                            "standard": "It wasn’t just that <i>Rubber Soul</i> was sonically groundbreaking (it was), or that Lennon and McCartney’s songwriting had reached new heights of maturity and ambiguity (okay), but that it was the first Beatles album where each song seemed to exist unto itself and yet worked in alchemical harmony with everything around it: the emergence of the pop album as creative kaleidoscope.<br />\nMcCartney had told the <i>New Musical Express</i> that the band was banking on comedy being the next big thing after protest music—a reflection, possibly, of the existential irreverence one feels on acid, their growing insularity from (and reluctance toward) the culture at large, a philosophical commitment to enjoying the ride, or some giddy mix of all three.<br />\nWhatever the case, <i>Rubber Soul</i> is a deeply funny album: the gender play of “Drive My Car” (and the <i>beep-beep</i> backing vocals), the cabaret of “Michelle” (because nothing warms up the object of one’s desire like French), the way Lennon sucks deeply through his teeth before oozing the chorus to “Girl.” Even the album’s most earnest songs (“Nowhere Man,” “In My Life”) were touched by a nursery-rhyme gentleness that made their themes (psychic alienation, the astonishing continuity of past and present) go down easily. As for “Norwegian Wood,” what can you really do with the suggestion that the narrator burns the girl’s house down but shrug in uncertainty? This is how the album unfolds: colorful, dreamy, and delirious on the surface, with shadows swimming underneath.<br />\nThe overall feeling is one of liberation: In getting a little chemical-assisted distance from their egos, the band was able to explore style in ways that felt fluid and radical, changing costumes from song to song instead of locking themselves continuously into being The Beatles—a channel-changing approach that only became more pronounced as their career wound on (especially on the White Album and <i>Abbey Road</i>), not to mention set a new precedent for the diversity of modes and expressions pop artists were suddenly allowed to explore. As for the title, McCartney had remembered something an old bluesman said about Mick Jagger—that he was “plastic soul.” In the original iteration, it was a diss; in The Beatles’ version, it was a statement of liberation: In embracing artifice, you free yourself from the confines of the real.",
+                                            "short": "A big, colorful breakthrough."
+                                        },
+                                        "isCompilation": false
+                                    }
+                                },
+                                {
+                                    "id": "1441164670",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1441164670",
+                                    "attributes": {
+                                        "artwork": {
+                                            "width": 3000,
+                                            "height": 3000,
+                                            "url": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/58/4a/10/584a1058-de0a-6a6b-d0bd-da09a028b8bc/00602567705499.rgb.jpg/{w}x{h}bb.jpg",
+                                            "bgColor": "eaeaea",
+                                            "textColor1": "121212",
+                                            "textColor2": "262424",
+                                            "textColor3": "3d3d3d",
+                                            "textColor4": "4d4b4c"
+                                        },
+                                        "artistName": "The Beatles",
+                                        "isSingle": false,
+                                        "url": "https://music.apple.com/us/album/revolver/1441164670",
+                                        "isComplete": true,
+                                        "genreNames": [
+                                            "Rock",
+                                            "Music",
+                                            "Rock & Roll",
+                                            "British Invasion",
+                                            "Psychedelic",
+                                            "Pop",
+                                            "Soft Rock",
+                                            "Pop/Rock"
+                                        ],
+                                        "trackCount": 15,
+                                        "isMasteredForItunes": true,
+                                        "releaseDate": "1966-08-05",
+                                        "name": "Revolver",
+                                        "recordLabel": "UMC (Universal Music Catalogue)",
+                                        "upc": "00602567705499",
+                                        "copyright": "℗ 2009 Calderstone Productions Limited (a division of Universal Music Group)",
+                                        "playParams": {
+                                            "id": "1441164670",
+                                            "kind": "album"
+                                        },
+                                        "editorialNotes": {
+                                            "standard": "While it’s romantic to imagine that <i>Revolver</i> was a bolt of genius that arrived without context or precedent, the reality is more interesting. Sometime in 1965, The Beatles' longtime producer George Martin quit his contract with EMI Records. Martin had been working at a flat rate, without royalties—in other words, he would’ve made what he made no matter how well the band did. Martin knew EMI wouldn’t risk jeopardizing the band’s streak, and in leaving, he essentially forced the company to pay him what he was worth. That EMI owned the studios at Abbey Road outright meant The Beatles could record more or less as much as they wanted—an opportunity that, coupled with their increasing reluctance to tour, marked an existential shift in orientation: The Beatles were a studio band now.<br />\nWhat was once a refuge (the band liked recording in part because it gave them a break from the fatigue of touring and public fame) turned into a hub of inspiration. Some results were obvious: the wild tape-loop collages of “Tomorrow Never Knows,” or George Harrison's guitar solo on “I’m Only Sleeping,” made during a six-hour session in which the part was transcribed in reverse by Martin, then recorded with the tape playing backward so as to make the final product sound like it was being sucked out from inside the song. Others—compression, Leslie speakers that gave vocals a liquid, sloshing quality, and automatic double-tracking capacity that allowed the band to split signals across the stereo field and give the recordings new spatial dimension—were subtler, but in all cases pointed to a supremacy of sound for sound’s sake. The pastiche of faces and lack of band attribution on the album’s cover drove home the point: For all the 300-something hours that went into the album’s recording, it’s hard to picture <i>Revolver</i> being made by four guys standing in a room.<br />\nWhile McCartney was getting more interested in characters and scenarios (“For No One,” “Eleanor Rigby”), Lennon—then starting to steep in LSD—was withdrawing into the mysteries of the self (“She Said She Said,” “Tomorrow Never Knows”). Harrison, previously a little peripheral, found not only a voice, but range: Compare the serrated R&B of “Taxman” to the Indian drones of “Love You To”—a contrast as stark as any in the band’s catalog.<br />\nIn a way, it’s understandable why the album was considered minor compared to <i>Sgt. Pepper’s</i> for so long: <i>Pepper’s</i> had a rambling, mythic quality that made it seem like something more than just a set of songs, while <i>Revolver</i> was still essentially following the rubric of <i>Rubber Soul</i>—a compact set of tracks meant to show the best ideas the band had. But if <i>Pepper’s</i> liberated the concept of the big, sprawling rock album, <i>Revolver</i> still speaks to how we understand 21st-century pop: fragmented, super eclectic, each song a fully saturated mood different from the one three minutes in either direction. Where <i>Pepper’s</i> ambled, <i>Revolver</i> honored the entertainer’s timeless responsibility to grab you by the ears.<br />\nLess than a week after the album was released, the band held a press conference at the Astor Hotel in Chicago, where Lennon was inevitably forced to clarify his observation from the previous March that The Beatles had become more popular than Jesus—a comment controversial enough to be publicly denounced by the Vatican, who noted that some subjects should be respected even by beatniks. A few questions later, a member of the press noted—respectfully in both directions—that Jesus probably would have appreciated “Eleanor Rigby.” Lennon, so exhausted and troubled by the ordeal that he’d broken down in tears while preparing to meet the reporters, demurred.",
+                                            "short": "The big leap forward."
+                                        },
+                                        "isCompilation": false
+                                    }
+                                },
+                                {
+                                    "id": "1441164524",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1441164524"
+                                },
+                                {
+                                    "id": "1441164604",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1441164604",
+                                    "attributes": {
+                                        "artwork": {
+                                            "width": 3000,
+                                            "height": 3000,
+                                            "url": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/6f/79/8d/6f798d84-7475-8525-fc91-f7b51b2b5a9b/00602567725428.rgb.jpg/{w}x{h}bb.jpg",
+                                            "bgColor": "92d9f9",
+                                            "textColor1": "160a02",
+                                            "textColor2": "1b1a1d",
+                                            "textColor3": "2e3333",
+                                            "textColor4": "334049"
+                                        },
+                                        "artistName": "The Beatles",
+                                        "isSingle": false,
+                                        "url": "https://music.apple.com/us/album/sgt-peppers-lonely-hearts-club-band/1441164604",
+                                        "isComplete": true,
+                                        "genreNames": [
+                                            "Rock",
+                                            "Music",
+                                            "Pop",
+                                            "Soft Rock",
+                                            "Pop/Rock",
+                                            "Psychedelic",
+                                            "Hard Rock",
+                                            "Rock & Roll"
+                                        ],
+                                        "trackCount": 14,
+                                        "isMasteredForItunes": true,
+                                        "releaseDate": "1967-06-01",
+                                        "name": "Sgt. Pepper's Lonely Hearts Club Band",
+                                        "recordLabel": "UMC (Universal Music Catalogue)",
+                                        "upc": "00602567725428",
+                                        "copyright": "℗ 2009 Calderstone Productions Limited (a division of Universal Music Group)",
+                                        "playParams": {
+                                            "id": "1441164604",
+                                            "kind": "album"
+                                        },
+                                        "editorialNotes": {
+                                            "standard": "For better and worse, <i>Sgt. Pepper’s Lonely Hearts Club Band</i> helped set the precedent that rock bands could (and should) do more or less whatever they wanted. Songs got longer, albums grew concepts, and the idea of the LP as a concise product meant to showcase a performer’s talents gave way to the suspicion that commercial concerns ultimately only served The Man. A few months before The Beatles were set to record <i>Sgt. Pepper’s</i>, Bob Dylan had released <i>Blonde on Blonde</i>, an album so expansive it had to literally be pressed onto two records, while The Beach Boys’ <i>Pet Sounds</i> stretched the dimensions and possibilities of the three-minute pop song. McCartney in particular had been fascinated by things like Frank Zappa & The Mothers of Invention’s 1966 debut, <i>Freak Out!</i>, a double album whose hodgepodge of songs, noise, skits, and sound gags mirrored conceptual art’s breaking of the painterly frame. Where The Beatles had once sought to distill and consolidate, now they were looking to expand. McCartney had even come up with an alter ego and pseudo-unifying backstory—a move Lennon later said only worked because the band <i>said</i> it worked. In other words, they didn’t want to just exorcise the group that made “I Want to Hold Your Hand,” they wanted to smother them with a pillow. Vacationing in France just before recording had started, McCartney slicked his hair back with Vaseline and wandered the streets in a fake mustache and clear-lens glasses, an experience he called “quite liberating.”<br />\nFor all its experiments (“A Day in the Life”) and invocations of the counterculture (“Lucy in the Sky With Diamonds”), it’s probably the band’s most conservative album: the beer hall sing-alongs of the title track and “With a Little Help From My Friends,” the old-timey entertainments of “Being for the Benefit of Mister Kite!,” the domestic contentment of “When I’m Sixty-Four.” Like The Kinks circa “Waterloo Sunset” and <i>The Kinks Are the Village Green Preservation Society</i> and The Beach Boys of <i>Smiley Smile</i>, <i>Sgt. Pepper’s</i> is an album that looked toward the past instead of the future, the work of guys in their late twenties starting to wonder if they’d been too eager to break from the old world—or at least might have lost something along the way. (Lennon’s “Strawberry Fields Forever,” recorded around the same time, covered similar themes; that the band was all taking acid—a drug that has a way of flattening geologic time—probably didn’t hurt either.) Even Lennon’s lyric on “A Day in the Life”—“I read the news today, oh boy”—rang with a cosmic quaintness, an image not of young radicals on the loose but of the aging souls of “Eleanor Rigby,” finding infinite richness in a narrow life. A couple of months after the album was released, the band—along with partners, children, and business infrastructure—traveled to Greece with the vague intention of buying an island for everyone to live on, but eventually managed to think better of it.",
+                                            "short": "A new template for rock ’n' roll."
+                                        },
+                                        "isCompilation": false
+                                    }
+                                },
+                                {
+                                    "id": "1441163490",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1441163490"
+                                },
+                                {
+                                    "id": "1441133100",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1441133100"
+                                },
+                                {
+                                    "id": "1440833098",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1440833098"
+                                },
+                                {
+                                    "id": "1441164816",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1441164816"
+                                },
+                                {
+                                    "id": "1441164416",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1441164416"
+                                },
+                                {
+                                    "id": "1582219768",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1582219768",
+                                    "attributes": {
+                                        "artwork": {
+                                            "width": 3000,
+                                            "height": 3000,
+                                            "url": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/c8/6d/05/c86d05fa-8056-9b42-3483-0e9e474da327/21UMGIM61111.rgb.jpg/{w}x{h}bb.jpg",
+                                            "bgColor": "010101",
+                                            "textColor1": "ffffff",
+                                            "textColor2": "f1efdf",
+                                            "textColor3": "cccccc",
+                                            "textColor4": "c1bfb2"
+                                        },
+                                        "artistName": "The Beatles",
+                                        "isSingle": false,
+                                        "url": "https://music.apple.com/us/album/let-it-be-2021-mix/1582219768",
+                                        "isComplete": false,
+                                        "genreNames": [
+                                            "Rock",
+                                            "Music"
+                                        ],
+                                        "trackCount": 12,
+                                        "isMasteredForItunes": true,
+                                        "releaseDate": "1970-05-08",
+                                        "name": "Let It Be (2021 Mix)",
+                                        "recordLabel": "UMC (Universal Music Catalogue)",
+                                        "upc": "00602438575688",
+                                        "copyright": "℗ 2021 Calderstone Productions Limited (a division of Universal Music Group)",
+                                        "playParams": {
+                                            "id": "1582219768",
+                                            "kind": "album"
+                                        },
+                                        "isCompilation": false
+                                    }
+                                },
+                                {
+                                    "id": "1474833332",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1474833332"
+                                },
+                                {
+                                    "id": "1441164495",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1441164495"
+                                },
+                                {
+                                    "id": "1436905161",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1436905161"
+                                },
+                                {
+                                    "id": "1441133389",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1441133389"
+                                },
+                                {
+                                    "id": "1441133181",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1441133181"
+                                },
+                                {
+                                    "id": "1441164525",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1441164525"
+                                },
+                                {
+                                    "id": "1441164362",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1441164362"
+                                },
+                                {
+                                    "id": "1441132965",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1441132965"
+                                },
+                                {
+                                    "id": "1441165005",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1441165005"
+                                },
+                                {
+                                    "id": "1582541991",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1582541991"
+                                },
+                                {
+                                    "id": "1440881011",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1440881011"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": "480796077",
+                    "type": "artists",
+                    "href": "/v1/catalog/us/artists/480796077",
+                    "attributes": {
+                        "url": "https://music.apple.com/us/artist/epic-rap-battles-of-history/480796077",
+                        "name": "Epic Rap Battles of History",
+                        "genreNames": [
+                            "Comedy"
+                        ]
+                    },
+                    "relationships": {
+                        "albums": {
+                            "href": "/v1/catalog/us/artists/480796077/albums",
+                            "next": "/v1/catalog/us/artists/480796077/albums?offset=25",
+                            "data": [
+                                {
+                                    "id": "696010711",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/696010711"
+                                },
+                                {
+                                    "id": "1446317891",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1446317891"
+                                },
+                                {
+                                    "id": "1476131657",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1476131657"
+                                },
+                                {
+                                    "id": "1464542699",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1464542699"
+                                },
+                                {
+                                    "id": "1497687602",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1497687602"
+                                },
+                                {
+                                    "id": "1069005533",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1069005533"
+                                },
+                                {
+                                    "id": "1170154142",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1170154142"
+                                },
+                                {
+                                    "id": "1487778556",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1487778556"
+                                },
+                                {
+                                    "id": "1491140304",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1491140304"
+                                },
+                                {
+                                    "id": "1190776917",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1190776917"
+                                },
+                                {
+                                    "id": "1536556208",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1536556208"
+                                },
+                                {
+                                    "id": "898015438",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/898015438"
+                                },
+                                {
+                                    "id": "888887285",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/888887285"
+                                },
+                                {
+                                    "id": "1462695025",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1462695025"
+                                },
+                                {
+                                    "id": "1133615570",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1133615570"
+                                },
+                                {
+                                    "id": "1540471323",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1540471323"
+                                },
+                                {
+                                    "id": "487350853",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/487350853"
+                                },
+                                {
+                                    "id": "1026889621",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1026889621"
+                                },
+                                {
+                                    "id": "1443959676",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1443959676"
+                                },
+                                {
+                                    "id": "1013217630",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1013217630"
+                                },
+                                {
+                                    "id": "1179465757",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1179465757"
+                                },
+                                {
+                                    "id": "1114817422",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1114817422"
+                                },
+                                {
+                                    "id": "1458754373",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1458754373"
+                                },
+                                {
+                                    "id": "490301989",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/490301989"
+                                },
+                                {
+                                    "id": "945514102",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/945514102"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": "516690888",
+                    "type": "artists",
+                    "href": "/v1/catalog/us/artists/516690888",
+                    "attributes": {
+                        "url": "https://music.apple.com/us/artist/mark-battles/516690888",
+                        "name": "Mark Battles",
+                        "genreNames": [
+                            "Hip-Hop/Rap"
+                        ]
+                    },
+                    "relationships": {
+                        "albums": {
+                            "href": "/v1/catalog/us/artists/516690888/albums",
+                            "next": "/v1/catalog/us/artists/516690888/albums?offset=25",
+                            "data": [
+                                {
+                                    "id": "1586006940",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1586006940"
+                                },
+                                {
+                                    "id": "1116239370",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1116239370"
+                                },
+                                {
+                                    "id": "1417420807",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1417420807"
+                                },
+                                {
+                                    "id": "1045600033",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1045600033"
+                                },
+                                {
+                                    "id": "1451988811",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1451988811"
+                                },
+                                {
+                                    "id": "1337907129",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1337907129"
+                                },
+                                {
+                                    "id": "1385178754",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1385178754"
+                                },
+                                {
+                                    "id": "1015459265",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1015459265"
+                                },
+                                {
+                                    "id": "905789245",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/905789245"
+                                },
+                                {
+                                    "id": "975601902",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/975601902"
+                                },
+                                {
+                                    "id": "1207404647",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1207404647"
+                                },
+                                {
+                                    "id": "808489287",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/808489287"
+                                },
+                                {
+                                    "id": "798964417",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/798964417"
+                                },
+                                {
+                                    "id": "825760888",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/825760888"
+                                },
+                                {
+                                    "id": "808429128",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/808429128"
+                                },
+                                {
+                                    "id": "1483510197",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1483510197"
+                                },
+                                {
+                                    "id": "1414567105",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1414567105"
+                                },
+                                {
+                                    "id": "1482936490",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1482936490"
+                                },
+                                {
+                                    "id": "1524658930",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1524658930"
+                                },
+                                {
+                                    "id": "1549047606",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1549047606"
+                                },
+                                {
+                                    "id": "1502651943",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1502651943"
+                                },
+                                {
+                                    "id": "1482029829",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1482029829"
+                                },
+                                {
+                                    "id": "1491090108",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1491090108"
+                                },
+                                {
+                                    "id": "1585777078",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1585777078"
+                                },
+                                {
+                                    "id": "1474127256",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1474127256"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": "33568718",
+                    "type": "artists",
+                    "href": "/v1/catalog/us/artists/33568718",
+                    "attributes": {
+                        "url": "https://music.apple.com/us/artist/battles/33568718",
+                        "name": "Battles",
+                        "genreNames": [
+                            "Alternative"
+                        ]
+                    },
+                    "relationships": {
+                        "albums": {
+                            "href": "/v1/catalog/us/artists/33568718/albums",
+                            "data": [
+                                {
+                                    "id": "251186625",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/251186625"
+                                },
+                                {
+                                    "id": "1019525939",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1019525939"
+                                },
+                                {
+                                    "id": "1475277092",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1475277092"
+                                },
+                                {
+                                    "id": "436917460",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/436917460"
+                                },
+                                {
+                                    "id": "282578055",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/282578055"
+                                },
+                                {
+                                    "id": "512826217",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/512826217"
+                                },
+                                {
+                                    "id": "1534555677",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1534555677"
+                                },
+                                {
+                                    "id": "266183373",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/266183373"
+                                },
+                                {
+                                    "id": "265470035",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/265470035"
+                                },
+                                {
+                                    "id": "453019180",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/453019180"
+                                },
+                                {
+                                    "id": "436139784",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/436139784"
+                                },
+                                {
+                                    "id": "436120616",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/436120616"
+                                },
+                                {
+                                    "id": "1531510167",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1531510167"
+                                },
+                                {
+                                    "id": "1529635608",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1529635608"
+                                },
+                                {
+                                    "id": "426493552",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/426493552"
+                                },
+                                {
+                                    "id": "219769512",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/219769512"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": "412807070",
+                    "type": "artists",
+                    "href": "/v1/catalog/us/artists/412807070",
+                    "attributes": {
+                        "url": "https://music.apple.com/us/artist/battle-beast/412807070",
+                        "name": "Battle Beast",
+                        "genreNames": [
+                            "Metal"
+                        ]
+                    },
+                    "relationships": {
+                        "albums": {
+                            "href": "/v1/catalog/us/artists/412807070/albums",
+                            "data": [
+                                {
+                                    "id": "1460464649",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1460464649"
+                                },
+                                {
+                                    "id": "1460462882",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1460462882"
+                                },
+                                {
+                                    "id": "1448932104",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1448932104"
+                                },
+                                {
+                                    "id": "1458645589",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1458645589"
+                                },
+                                {
+                                    "id": "1456972568",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1456972568"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": "491641",
+                    "type": "artists",
+                    "href": "/v1/catalog/us/artists/491641",
+                    "attributes": {
+                        "url": "https://music.apple.com/us/artist/kathleen-battle/491641",
+                        "name": "Kathleen Battle",
+                        "genreNames": [
+                            "Classical"
+                        ]
+                    },
+                    "relationships": {
+                        "albums": {
+                            "href": "/v1/catalog/us/artists/491641/albums",
+                            "next": "/v1/catalog/us/artists/491641/albums?offset=25",
+                            "data": [
+                                {
+                                    "id": "1440722842",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1440722842"
+                                },
+                                {
+                                    "id": "193660890",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/193660890"
+                                },
+                                {
+                                    "id": "159175622",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/159175622"
+                                },
+                                {
+                                    "id": "1452170469",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1452170469"
+                                },
+                                {
+                                    "id": "1452245093",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1452245093"
+                                },
+                                {
+                                    "id": "1067022395",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1067022395"
+                                },
+                                {
+                                    "id": "724927763",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/724927763"
+                                },
+                                {
+                                    "id": "1452218731",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1452218731"
+                                },
+                                {
+                                    "id": "1452202960",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1452202960"
+                                },
+                                {
+                                    "id": "215338508",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/215338508"
+                                },
+                                {
+                                    "id": "693627861",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/693627861"
+                                },
+                                {
+                                    "id": "192948247",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/192948247"
+                                },
+                                {
+                                    "id": "261746971",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/261746971"
+                                },
+                                {
+                                    "id": "1452229094",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1452229094"
+                                },
+                                {
+                                    "id": "394061749",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/394061749"
+                                },
+                                {
+                                    "id": "1494403742",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1494403742"
+                                },
+                                {
+                                    "id": "724703793",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/724703793"
+                                },
+                                {
+                                    "id": "1452159863",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1452159863"
+                                },
+                                {
+                                    "id": "1452576371",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1452576371"
+                                },
+                                {
+                                    "id": "259693384",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/259693384"
+                                },
+                                {
+                                    "id": "1452535362",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1452535362"
+                                },
+                                {
+                                    "id": "1452237711",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1452237711"
+                                },
+                                {
+                                    "id": "1452285859",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1452285859"
+                                },
+                                {
+                                    "id": "159699928",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/159699928"
+                                },
+                                {
+                                    "id": "696573414",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/696573414"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": "438211407",
+                    "type": "artists",
+                    "href": "/v1/catalog/us/artists/438211407",
+                    "attributes": {
+                        "url": "https://music.apple.com/us/artist/battle-tapes/438211407",
+                        "name": "Battle Tapes",
+                        "genreNames": [
+                            "Alternative"
+                        ]
+                    },
+                    "relationships": {
+                        "albums": {
+                            "href": "/v1/catalog/us/artists/438211407/albums",
+                            "data": [
+                                {
+                                    "id": "1055140080",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1055140080"
+                                },
+                                {
+                                    "id": "1527596741",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1527596741"
+                                },
+                                {
+                                    "id": "519165947",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/519165947"
+                                },
+                                {
+                                    "id": "438211406",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/438211406"
+                                },
+                                {
+                                    "id": "1099162647",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1099162647"
+                                },
+                                {
+                                    "id": "1527595345",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1527595345"
+                                },
+                                {
+                                    "id": "1055027810",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1055027810"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": "911648932",
+                    "type": "artists",
+                    "href": "/v1/catalog/us/artists/911648932",
+                    "attributes": {
+                        "url": "https://music.apple.com/us/artist/the-beatles-connection/911648932",
+                        "name": "The Beatles Connection",
+                        "genreNames": [
+                            "Britpop"
+                        ]
+                    },
+                    "relationships": {
+                        "albums": {
+                            "href": "/v1/catalog/us/artists/911648932/albums",
+                            "data": [
+                                {
+                                    "id": "911648925",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/911648925"
+                                },
+                                {
+                                    "id": "1019114504",
+                                    "type": "albums",
+                                    "href": "/v1/catalog/us/albums/1019114504"
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "meta": {
+        "results": {
+            "order": [
+                "playlists",
+                "songs",
+                "albums",
+                "music-videos",
+                "artists"
+            ],
+            "rawOrder": [
+                "playlists",
+                "songs",
+                "albums",
+                "music-videos",
+                "artists"
+            ]
+        }
+    }
+}

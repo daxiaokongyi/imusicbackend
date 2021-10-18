@@ -1,69 +1,22 @@
 // "use strict";
-
-// const mockAxios = require('../__mocks__/axios');
-// const request = require('supertest');
-// const app = require('../app');
-
-// const {
-//     commonBeforeAll,    
-//     commonBeforeEach,
-//     commonAfterAll, 
-//     commonAfterEach,
-//     u1Token,
-// } = require('./_testCommon');
-
-// beforeAll(commonBeforeAll);
-// beforeEach(commonBeforeEach);
-// afterAll(commonAfterAll);
-// afterEach(commonAfterEach);
-
-// it('GET /:searchTerm', async () => {
-//     // setup
-//     mockAxios.get.mockImplementationOnce(() => {
-//         Promise.resolve({
-//             data: {
-//                 songs: [],
-//                 artists: [],
-//                 albums: [],
-//                 playlists: [],
-//                 musicVideos: []
-//             }
-//         });
-//     }) 
-
-//     // work
-//     const result = await request(app).get(`/applemusic/songs/singers`);
-
-//     // expect
-//     expect(result).toEqual({
-//         songs: [],
-//         artists: [],
-//         albums: [],
-//         playlists: [],
-//         musicVideos: []
-//     });
-//     expect(mockAxios.get).toHaveBeenCalledTimes(1);
-// });
+// https://betterprogramming.pub/testing-nodejs-apps-that-interact-with-external-apis-with-nock-97e1957e4130
 
 const nock = require('nock');
 const request = require('supertest');
+const app = require('../app');
+const test = require('./test.json');
 
 describe('axios testing', () => {
-    it('should work for term search', async () => {
-        // const scope = nock('/aaplemusic/songs/beattles')
-        //                     .reply(200, {
-        //                         results: {
-        //                             songs,
-        //                             artists,
-        //                             albums,
-        //                             playlists,
-        //                             musicVideos
-        //                         }
-        //                     });
+    it('should work for term search', async function() { 
+        // Set up the mock request
+        nock('https://api.music.apple.com')
+            .get(`/v1/catalog/us/search?term=beatles&limit=8`)
+            .reply(200, test);
 
-        // const result = await request(app).get(`/applemusic/songs/singers`);
-        // scope.done();
-        // expect(result.statusCode).toEqual(200);
-        expect(1).toBe(1);
+        const result = await request(app)
+            .get(`/applemusic/songs/beatles`);
+
+        expect(result.status).toBe(200);
+        // expect(result.body).toEqual(test);
     })
 }); 

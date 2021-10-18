@@ -12,6 +12,7 @@ const BASIC_API_URL_SONG_DETAIL = "https://api.music.apple.com/v1/catalog/us/son
  */
 
 router.get("/:searchTerm", async function (req, res, next) {
+    console.log('testing search term');
     try {
         const result = await axios.get(`${BASIC_API_URL}?term=${req.params.searchTerm}&limit=8`, {
             headers: {
@@ -48,6 +49,7 @@ router.get("/:searchTerm", async function (req, res, next) {
                 let artistWithImage = artist.hasOwnProperty('relationships') ? artist.relationships.albums.data.filter(each => each.hasOwnProperty('attributes')) : [];
 
                 return {
+                    artistId: artist.id,
                     artistUrl :artist.attributes.url,
                     artistName : artist.attributes.name,
                     artistGenreNames : artist.attributes.genreNames,
@@ -60,6 +62,7 @@ router.get("/:searchTerm", async function (req, res, next) {
 
         if (resultAlbums.length !== 0) {
             resultAlbums = resultAlbums.map(album => ({
+                albumId: album.id,
                 albumUrl : album.attributes.url,
                 albumArtist: album.attributes.artistName,
                 albumName: album.attributes.name,
@@ -72,6 +75,7 @@ router.get("/:searchTerm", async function (req, res, next) {
 
         if (resultPlaylists.length !== 0) {
             resultPlaylists = resultPlaylists.map(playlist => ({
+                playlistId: playlist.id,
                 playlistDescription: playlist.attributes.description ? playlist.attributes.description.standard : "",
                 playlistUrl: playlist.attributes.url,
                 playlistName: playlist.attributes.name,
@@ -83,6 +87,7 @@ router.get("/:searchTerm", async function (req, res, next) {
 
         if (resultMusicVideos.length !== 0) {
             resultMusicVideos = resultMusicVideos.map(video => ({
+                videoId: video.id,
                 videoPreviewUrl : video.attributes.previews[0].url,
                 videoHlsUrl : video.attributes.previews[0].hlsUrl,
                 videoUrl : video.attributes.url,
@@ -97,6 +102,7 @@ router.get("/:searchTerm", async function (req, res, next) {
 
         return res.status(201).json({songs:resultSongs, artists: resultArtists, albums: resultAlbums, playlists: resultPlaylists, musicVideos: resultMusicVideos});
     } catch (error) {
+        console.log(`error is here: ${JSON.stringify(error)}`);
         return next(error);
     }
 });

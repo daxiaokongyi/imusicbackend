@@ -22,5 +22,6 @@ let signOptions = {
 }
 
 let token = jwt.sign(payload, process.env.PRIVATE_KEY.replace(/\\n/g, '\n'), signOptions);
+console.log(token);
 
 module.exports = token;

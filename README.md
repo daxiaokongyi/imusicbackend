@@ -12,6 +12,12 @@
 ## Install the packages
 * npm install
 
+## Create Database
+* DROP DATABASE music;
+* CREATE DATABASE music;
+* \connect music
+* \i music-schema.sql
+
 ### Github link: 
     https://github.com/daxiaokongyi/imusicbackend
 ### API: 

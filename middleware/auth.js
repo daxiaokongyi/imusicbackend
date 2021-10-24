@@ -41,7 +41,7 @@ function ensureLoggedIn(req, res, next) {
  * if not, return Unauthorized
  */
 
-// function ensureCorrectUserOrAdmin(req, res, next) {
+// function ensureCorrectUser(req, res, next) {
 function ensureCorrectUser(req, res, next) {
     try {
         const user = res.locals.user;

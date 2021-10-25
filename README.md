@@ -7,18 +7,18 @@
 * For more details, also check the front end link: https://github.com/daxiaokongyi/imusicfrontend
 
 ## Testing
+* psql < music_test.sql
 * npm run test
 
 ## Install the packages
 * npm install
 
 ## Create Database
-* DROP DATABASE music;
-* CREATE DATABASE music;
-* \connect music
-* \i music-schema.sql
+* psql < music.sql
 
 ### Github link: 
     https://github.com/daxiaokongyi/imusicbackend
 ### API: 
     https://developer.apple.com/documentation/applemusicapi/
+### Website Link:
+    http://foamy-oatmeal.surge.sh/
